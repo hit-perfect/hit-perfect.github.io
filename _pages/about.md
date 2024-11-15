@@ -10,7 +10,7 @@ redirect_from:
 Hello, These are my two sons!!! I am pround of them!!!
 ------
 My son: jc
-![jc](/images/jc.png)
+![jc](/images/jc.jpg)
 
 My son: wqf
-![wqf](/images/wqf.png)
+![wqf](/images/IMG_0368.jpeg)
