@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Du Yihua"
-  pronouns         : "He"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "she/her" 
+  bio              : "As a senior student at HIT University, I hope to further study the processing of embodied intelligence and 3D reconstruction and generation in the future"
   location         : "CHINA/Harbin"
   employer         : "Harbin Institute of Technology"
   uri              : # URL
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "hit-perfect"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -72,7 +72,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "PERFECT"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
