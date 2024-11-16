@@ -8,7 +8,7 @@ redirect_from:
 ---
 Self-introduction
 ------
-Hello, I am Duyi Hua from Harbin Institute of Technology, currently an undergraduate student majoring in Computer Science and Technology. I enjoy turning code into solutions for real-world problems. For me, programming is not just a job; it's an exciting journey full of exploration.
+Hello, I am Du Yihua from Harbin Institute of Technology, currently an undergraduate student majoring in Computer Science and Technology. I enjoy turning code into solutions for real-world problems. For me, programming is not just a job; it's an exciting journey full of exploration.
 
 During my exchange at the National University of Singapore, I led a group to successfully train a model to recognize cat breeds, which earned me the nickname "Cat Doctor"—though I’ve never cured a cat's emotional issues. During the liveness detection project at South China University of Technology, I added some "magical spells" to the model by introducing the Prompt mechanism, and it worked surprisingly well. My internship at Meituan taught me how to "perform miracles" under various constraints, making the model run steadily even on servers with older versions. Computer science is like a huge maze, and I love finding the exits and tackling every challenge it throws at me. For detailed project descriptions, please refer to the [link](#https://hit-perfect.github.io/cv/).
 
@@ -18,10 +18,6 @@ I love exploring the world with like-minded people (especially the person I love
 ![loving_scene](/images/111.png)
 
 
-Hello, These are my two sons!!! I am pround of them!!!
+Future-Studying
 ------
-My son: jc
-![jc](/images/jc.jpg)
-
-My son: wqf
-![wqf](/images/IMG_0368.jpeg)
+In the future, I will further my studies at The Chinese University of Hong Kong, Shenzhen. I will be under the guidance of [Professor Han Xiaoguang](https://sse.cuhk.edu.cn/faculty/hanxiaoguang) and join the [GAP_Lab](https://gaplab.cuhk.edu.cn/).
