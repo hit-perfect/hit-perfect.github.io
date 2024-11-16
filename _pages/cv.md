@@ -38,7 +38,7 @@ Research Experience
 * Research Assistant, South China University of Technology, School of Software, 2023/10-2024/03
   - Multimodal liveness detection using RGB, Depth, and IR data; introduced Prompt mechanism to improve model performance
 
-* Team Leader, [National University of Singapore (SOC)](/_publications/nus_project.md), 2023/07-2023/08
+* Team Leader, [National University of Singapore (SOC)](/publications/nus_project.md), 2023/07-2023/08
   - Led a group to train a deep learning model for cat breed recognition, achieving 100% accuracy; utilized OpenCV for color recognition and MQTT for communication
 
 * Core Member, AI Creation Community Based on Diffusion Model (National Level Project), 2023/09-2024/09
