@@ -8,57 +8,74 @@ redirect_from:
 ---
 
 {% include base_path %}
+# 杜壹华
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### 基本信息
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- 联系电话：+86 12345678910
+- 电子邮件：[2021112386@stu.hit.edu.cn](mailto:2021112386@stu.hit.edu.cn) / [duyihua\_hit@163.com](mailto:duyihua_hit@163.com) / [duyihua0130@gmail.com](mailto:duyihua0130@gmail.com)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### 教育经历
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **哈尔滨工业大学（校本部）**\
+  计算机科学与技术，本科，2021/09--2025/06\
+  学习成绩：学分绩：90.58/100；GPA：3.7869/4；排名：16/117（13.7%）；WES：3.81/4；CET6：534
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  - 主要课程：工科数学分析（98）、集合论与图论（100）、数理逻辑与近世代数（94.1）、代数与几何（95）
+  - 在校荣誉：2021-2023双年度校优秀学生，2023校优秀团干部，人民奖学金，基础学部优秀团员
+
+- **新加坡国立大学 计算机学院（SOC）**\
+  暑期交换生，2023/07--2023/08
+
+- **华南理工大学**\
+  计算机科学与技术，本科生交换，2023/09--2024/09\
+  学习成绩：GPA：3.92；担任机器学习课程助教，带领同学参与课程实验
+
+### 实习经历
+
+- **美团（北京三块技术） 基础安全部门**\
+  算法策略（科研），2024/03--2024/08
+  - 开发基于开源模型和工具的图像质量检测工具，成功部署于低版本gcc服务器上
+  - 优化重压缩和篡改检测算法，引入多模态学习以提高检测效果
+  - 开发数据采集应用程序，制作50万条数据，模型在业务测试中通过率99.99%，准确率99.62%
+
+### 科研项目
+
+- **华南理工大学软件学院（多模态活体检测）**\
+  科研助理，算法构建、测试，2023/10--2024/03
+
+  - 专注于活体检测技术，使用RGB、Depth、IR多模态数据集
+  - 引入Prompt机制提升模型性能，加入文本模态信息以强化学习效果
+
+- **新加坡国立大学（计算机学院）**\
+  小组组长，算法构建、测试，2023/07--2023/08
+
+  - 使用计算机视觉深度学习技术处理视频信息，指导硬件执行动作
+  - 微调Yolov7进行猫种类识别，达到100%准确率
+  - 采用OpenCV进行颜色识别，学习使用MQTT协议进行前后端通讯
+
+- **基于扩散模型的虚拟创作交流社区（国家级大创）**\
+  核心组员，算法构建，2023/09--2024/09
+
+  - 建立开放的AI创作社区，使用扩散模型和AIGC工具
+  - 负责后端深度学习算法的集成和API调用，支持虚拟换装、数字写真等功能
+
+### 科创竞赛
+
+- 美国大学生数学建模比赛 H奖（两次）
+- 第十七届全国大学生软件创新大赛 东北区域赛二等奖（东北赛区前20名）
+- 第六届全球校园人工智能算法精英大赛 全国二等奖（二等奖排名第一、准确率全国第二）
+
+### 学生经历
+
+- **哈尔滨工业大学校学生会-学业支持中心**\
+  干事，组织学业讲座、策划志愿活动，2022/09--2023/09
+- **21级计算机科学与技术 2班**\
+  体育委员兼生活委员，促进班级发展，2022/09--2025/06
+
+### 个人能力
+
+- **计算机能力**：丰富的开发经验和深度学习实践经验，精通Linux服务器操作，熟练使用VSCode、PyCharm等编译器
+- **其他能力**：优秀的组织和沟通能力，团队合作精神强，能在高压环境下保持高效，并具备高度自我驱动意识
+- **兴趣爱好**：羽毛球、长跑，葫芦丝九级证书
+
