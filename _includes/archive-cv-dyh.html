@@ -1,1 +1,56 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="archive__item">
+  <article class="archive__item-content" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="content-wrapper">
+      <!-- 左边的文本部分 -->
+      <div class="text-content">
+        <h3 itemprop="headline">
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        </h3>
+        <p>{{ post.excerpt }}</p>
+      </div>
+      <!-- 右边的图片部分 -->
+      <div class="image-content">
+        {% if post.image %}
+          <img src="{{ post.image }}" alt="{{ post.title }}">
+        {% endif %}
+      </div>
+    </div>
+  </article>
+</div>
+
+<!-- CSS to make the layout side-by-side -->
+<style>
+  .content-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .text-content {
+    width: 60%;
+  }
+
+  .image-content {
+    width: 35%;
+    text-align: right;
+  }
+
+  .image-content img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
 
