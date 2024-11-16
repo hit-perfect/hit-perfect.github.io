@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-China"
-title                    : "Du Yihua/ Personal Page"
+title                    : "Du Yihua/ Self-introduction-page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Du Yihua"
   pronouns         : # example: "she/her" 
   bio              : "As a senior student at HIT University, I hope to further study the processing of embodied intelligence and 3D reconstruction and generation in the future"
-  location         : "CHINA/Harbin"
+  location         : "China/Harbin"
   employer         : "Harbin Institute of Technology"
   uri              : # URL
   email            : "duyihua0130@gmail.com" 
@@ -72,7 +72,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "perfect-10-52"
+  zhihu            : "perfect"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
