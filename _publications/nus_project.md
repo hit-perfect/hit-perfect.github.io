@@ -1,8 +1,8 @@
 ---
 title: "National University of Singapore Project"
 collection: publications
-category: research
-permalink: /publications/nus_project
+category: manuscripts
+permalink: /publication/nus_project
 excerpt: 'This project involved training a model to recognize cat breeds using deep learning.'
 date: 2023-07-01
 image: /images/profile.jpeg
