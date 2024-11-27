@@ -16,7 +16,7 @@ In my spare time, I enjoy playing badminton and long-distance running, and I’v
 
 I love exploring the world with like-minded people (especially the person I love best), enjoying life, and I look forward to meeting you soon~~
 ![loving_scene](/images/111.png)
-Image from this [video](https://www.bilibili.com/video/BV1iV2NYaEcF/?spm_id_from=333.337.search-card.all.click&vd_source=bbd8626053650a86e1e80475370dd01b), thanks to up main [Linksphotograph](https://space.bilibili.com/3816626).
+Image from this [video](https://www.bilibili.com/video/BV1iV2NYaEcF/?spm_id_from=333.337.search-card.all.click&vd_source=bbd8626053650a86e1e80475370dd01b), thanks to up from Bilibili named [Linksphotograph](https://space.bilibili.com/3816626).
 
 Future-Studying
 ------
