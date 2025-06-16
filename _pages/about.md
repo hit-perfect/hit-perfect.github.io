@@ -56,12 +56,14 @@ After that, I will be enrolled as a mphil student in hkust in the fall of 2025. 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - This work is completed under the guidance of my undergraduate graduation supervisor and the laboratory senior. 
+- Won the excellent innovation comprehensive graduation design
 </div>
 </div>
 
 - [There is no Publications now, I hope this day will coming soon~~~](https://hit-perfect.github.io) **CVPR 2026**
 
 # 🎖 Honors and Awards
+- *2025.06* Liveness detection method based on multi-angle forensics. **Excellent and innovative comprehensive graduation design（卓越创新综合设计奖【哈尔滨工业大学本科生院颁发】）**.
 - *2024.11* HKUST RBM Postgraduate Scholarship. **240000 RMB**. 
 - *2024.11* The Sixth Global Campus Artificial Intelligence Algorithm Elite Competition. **The accuracy was second in the whole list and won the second prize in the nation（国家二等奖）**. 
 - *2024.09* Virtual authoring Communication Community based on Diffusion Model. **National Innovation and Entrepreneurship（国家级大创）**.
