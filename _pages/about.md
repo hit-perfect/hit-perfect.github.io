@@ -68,7 +68,7 @@ After that, I will be enrolled as a mphil student in hkust in the fall of 2025. 
 - *2024.11* The Sixth Global Campus Artificial Intelligence Algorithm Elite Competition. **The accuracy was second in the whole list and won the second prize in the nation（国家二等奖）**. 
 - *2024.09* Virtual authoring Communication Community based on Diffusion Model. **National Innovation and Entrepreneurship（国家级大创）**.
 - *2024.04* The 17th National College Students Software Innovation Competition. **Second prize in Northeast Regional Competition（东北赛区前 20 名）**.  
-- *2023.07* American College Student Mathematical Modeling Competition. **M Prize(美赛)**.
+- *2023.07* American College Student Mathematical Modeling Competition. **H Prize(美赛)**.
 - *2022,2023* Excellent student of the school. **（校优秀学生）**
 - *2022.09* HIT third-class name Scholarship. **（三等人民奖学金）**
 
