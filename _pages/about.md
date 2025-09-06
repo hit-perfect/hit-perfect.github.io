@@ -21,7 +21,7 @@ I am now conducting ra work in <img src="images/UST.png" alt="HKUST(gz) Logo" st
 
 As a primary learner in the field of AI, I am now engaged in the research direction of video generation, and intend to make further research in the direction of controllable video generation.
 
-I studied in the School of Computer Science and Technology of Harbin Institute of Technology<img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:1.5em; vertical-align:middle;"> as an undergraduate. I will get my bachelor's degree in Computer Science and technology in July this year(I hope so, this is a damn story). My undergraduate advisor was <a href='https://homepage.hit.edu.cn/liushaohui'>Liu Shaohui（刘绍辉）.</a>
+I studied in the School of Computer Science and Technology of Harbin Institute of Technology<img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:1.8em; vertical-align:middle;"> as an undergraduate. I will get my bachelor's degree in Computer Science and technology in July this year(I hope so, this is a damn story). My undergraduate advisor was <a href='https://homepage.hit.edu.cn/liushaohui'>Liu Shaohui（刘绍辉）.</a>
 
 After that, I will be enrolled as a mphil student in hkust in the fall of 2025. under the guidance of <a href='https://www.yingcong.me/'>Chen Yingcong（陈颖聪）</a>, I will continue to study in the field of generation, and I hope to obtain deeper atabilities.
 
@@ -73,9 +73,9 @@ After that, I will be enrolled as a mphil student in hkust in the fall of 2025. 
 - *2022.09* HIT third-class name Scholarship. **（三等人民奖学金）**
 
 # 📖 Educations
-- *2021.08 - 2025.04 (now)*, Bachelor, Harbin Institute of Technology, Harbin. 
-- *2025.09 - 2027.06 (future)*, M.phil, Hong Kong University of Science and Technology (Guangzhou), Guangzhou.
-- *2023.07 - 2023.08*, Summer exchange student, National University of Singapore, Singapore. 
+- *2021.08 - 2025.04 (now)*, <img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:2.15em; vertical-align:middle;"> Bachelor, Harbin Institute of Technology, Harbin. 
+- *2025.09 - 2027.06 (future)*, <img src="images/hkust-logo.png" alt="hkust-Logo" style="height:1.7em; vertical-align:middle;"> M.phil, Hong Kong University of Science and Technology (Guangzhou), Guangzhou.
+- *2023.07 - 2023.08*, <img src="images/nus-logo.jpg" alt="nus-Logo" style="height:1.7em; vertical-align:middle;"> Summer exchange student, National University of Singapore, Singapore. 
 
 # 💻 Internships
 - *2024.03 - 2024.07*, [Meituan](https://www.meituan.com)<img src="images/meituan.png" alt="meituan-Logo" style="height:1.2em; vertical-align:middle;">, Algorithm strategy, Beijing.
