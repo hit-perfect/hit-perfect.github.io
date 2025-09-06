@@ -76,7 +76,6 @@ After that, I will be enrolled as a mphil student in hkust in the fall of 2025. 
 - *2021.08 - 2025.04 (now)*, Bachelor, Harbin Institute of Technology, Harbin. 
 - *2025.09 - 2027.06 (future)*, M.phil, Hong Kong University of Science and Technology (Guangzhou), Guangzhou.
 - *2023.07 - 2023.08*, Summer exchange student, National University of Singapore, Singapore. 
-- *2023.09 - 2024.01*, exchange student, South China University of Technology, Guangzhou. 
 
 # 💻 Internships
 - *2024.03 - 2024.07*, [Meituan](https://www.meituan.com)<img src="images/meituan.png" alt="meituan-Logo" style="height:1.2em; vertical-align:middle;">, Algorithm strategy, Beijing.
