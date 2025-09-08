@@ -31,6 +31,8 @@ Before that, I received my Bachelor’s degree in Computer Science and Technolog
 
 At present, I am mainly working under the guidance of <a href='https://wileewang.github.io/'>Luozhou Wang</a> and <a href='https://a-bigbao.github.io/'>Guibao Shen</a>, both of whom are very kind and supportive. My current research focuses on controllable generation, and I aim to make rapid progress and contributions in this area.
 
+😍😍😍Please feel free to contact with me via *duyihua0130@gmail.com*😍😍😍
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
