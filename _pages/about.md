@@ -74,7 +74,7 @@ At present, I am mainly working under the guidance of <a href='https://wileewang
 - *2025.06* Liveness detection method based on multi-angle forensics. **Excellent and innovative comprehensive graduation design（卓越创新综合设计奖【哈尔滨工业大学本科生院颁发】）**.
 <!-- - *2024.11* HKUST RBM Postgraduate Scholarship. **240000 RMB**.  -->
 - *2024.11* HKUST RBM Postgraduate Scholarship. 
-- *2024.11* The Sixth Global Campus Artificial Intelligence Algorithm Elite Competition. **The accuracy was second in the whole list and won the second prize in the nation（国家二等奖）**. 
+- *2024.11* The Sixth Global Campus Artificial Intelligence Algorithm Elite Competition. **The accuracy was second in the whole list and won the second prize in the nation（国家二等奖准确率榜单第二）**. 
 - *2024.09* Virtual authoring Communication Community based on Diffusion Model. **National Innovation and Entrepreneurship（国家级大创）**.
 - *2024.04* The 17th National College Students Software Innovation Competition. **Second prize in Northeast Regional Competition（东北赛区前 20 名）**.  
 - *2023.07* American College Student Mathematical Modeling Competition. **H Prize(美赛)**.

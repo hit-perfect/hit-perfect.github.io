@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Du Yihua（杜壹华）"
+title                    : "Yihua Du(杜壹华)"
 description              : "Yihua is now an M.Phil. student in the AI Thrust at HKUST(GZ). He is currently studying computer vision, with his research focusing on controllable video generation."
 # repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Du yihua(杜壹华)"
+  name             : "Yihua Du(杜壹华)"
   avatar           : "images/cv_pic_v2.jpg"
   bio              : "  HKUST(GZ) | M.Phil "
   location         : "Guangzhou, China"
