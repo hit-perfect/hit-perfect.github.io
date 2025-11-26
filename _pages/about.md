@@ -25,7 +25,7 @@ I studied in the School of Computer Science and Technology of Harbin Institute o
 
 After that, I will be enrolled as a mphil student in hkust in the fall of 2025. under the guidance of <a href='https://www.yingcong.me/'>Chen Yingcong（陈颖聪）</a>, I will continue to study in the field of generation, and I hope to obtain deeper atabilities. -->
 
-I am currently an M.Phil. student in the AI Thrust at <img src="images/UST.png" alt="HKUST(gz) Logo" style="height:1.25em; vertical-align:middle;">HKUST(GZ). My supervisor is <a href='https://www.yingcong.me/'>Prof. Yingcong Chen</a>, an super nice mentor.
+I am currently an M.Phil. student in the AI Thrust at <img src="images/UST.png" alt="HKUST(gz) Logo" style="height:1.25em; vertical-align:middle;">HKUST(GZ). My supervisor is <a href='https://www.yingcong.me/'>Prof. Yingcong Chen</a>, a super nice mentor.
 
 Before that, I received my Bachelor’s degree in Computer Science and Technology from the School of Computer Science and Technology, <img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:2em; vertical-align:middle;">Harbin Institute of Technology, under the supervision of <a href='https://homepage.hit.edu.cn/liushaohui'>Prof. Shaohui Liu</a>, who has been tremendously supportive.
 
