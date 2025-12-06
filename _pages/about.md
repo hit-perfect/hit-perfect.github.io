@@ -37,6 +37,7 @@ At present, I am mainly working under the guidance of <a href='https://wileewang
 
 
 # 🔥 News
+- *2025.12*: &nbsp;❤️ We will share our latest two works within 10 days. Please stay tuned.. 
 - *2025.03*: &nbsp;🎉 One paper on IQA led by senior Li Yu was accepted by ICME. 
 
 # 📝 Publications and Projects
