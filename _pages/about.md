@@ -37,7 +37,9 @@ At present, I am mainly working under the guidance of <a href='https://wileewang
 
 
 # 🔥 News
-- *2025.12*: &nbsp;❤️ We will share our latest two works within 10 days. Please stay tuned.. 
+- *2025.12*: &nbsp;❤️ We Release Project Page of [*StereoPilot*](https://hit-perfect.github.io/StereoPilot/) (Hope you like it! Code and paper coming soon)
+- *2025.12*: &nbsp;❤️ We Release Project Page of [*VideoMemory*](https://hit-perfect.github.io/VideoMemory/) (Hope you like it! Code and paper coming soon)
+- *2025.12*: &nbsp;❤️ We will share our latest two works within 10 days. Please stay tuned. 
 - *2025.03*: &nbsp;🎉 One paper on IQA led by senior Li Yu was accepted by ICME. 
 
 # 📝 Publications and Projects
@@ -69,7 +71,7 @@ At present, I am mainly working under the guidance of <a href='https://wileewang
 </div>
 </div>
 
-- [There is no Publications now, I hope this day will coming soon~~~](https://hit-perfect.github.io) **CVPR 2026**
+<!-- - [There is no Publications now, I hope this day will coming soon~~~](https://hit-perfect.github.io) **CVPR 2026** -->
 
 # 🎖 Honors and Awards
 - *2025.06* Liveness detection method based on multi-angle forensics. **Excellent and innovative comprehensive graduation design（卓越创新综合设计奖【哈尔滨工业大学本科生院颁发】）**.
@@ -84,8 +86,8 @@ At present, I am mainly working under the guidance of <a href='https://wileewang
 
 # 📖 Educations
 - *2021.08 - 2025.09*, <img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:2.15em; vertical-align:middle;"> Bachelor, Harbin Institute of Technology, Harbin. 
-- *2025.09 - 2027.06(now)*, <img src="images/hkust-logo.png" alt="hkust-Logo" style="height:1.7em; vertical-align:middle;"> M.phil, Hong Kong University of Science and Technology (Guangzhou), Guangzhou.
 - *2023.07 - 2023.08*, <img src="images/nus-logo.jpg" alt="nus-Logo" style="height:1.7em; vertical-align:middle;"> Summer exchange student, National University of Singapore, Singapore. 
+- *2025.09 - (now)*, <img src="images/hkust-logo.png" alt="hkust-Logo" style="height:1.7em; vertical-align:middle;"> M.phil, Hong Kong University of Science and Technology (Guangzhou), Guangzhou.
 
 # 💻 Internships
 - *2024.03 - 2024.07*, [Meituan](https://www.meituan.com)<img src="images/meituan.png" alt="meituan-Logo" style="height:1.2em; vertical-align:middle;">, Algorithm strategy, Beijing.
