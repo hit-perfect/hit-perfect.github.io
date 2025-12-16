@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
        {
-          "src": "/HKUST(GZ).png",
+          "src": "/UST.png",
           "sizes": "192x192",
           "type": "image/png"
        },
        {
-        "src": "/HKUST(GZ).png",
+        "src": "/UST.png",
         "sizes": "512x512",
         "type": "image/png"
         }
