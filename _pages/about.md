@@ -43,7 +43,7 @@ At present, I am mainly working under the guidance of <a href='https://wileewang
 - *2025.12*: &nbsp;❤️ We will share our latest two works within 10 days. Please stay tuned. 
 - *2025.03*: &nbsp;🎉 One paper on IQA led by senior Li Yu was accepted by ICME. 
 
-# 📝 Publications and Projects
+# 📝 Publications
 
 <!-- 第一个 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NUS Summer workshop 2023</div><img src='images/NUS_summer_workshop.png' alt="sym" width="100%"></div></div>
@@ -93,9 +93,19 @@ At present, I am mainly working under the guidance of <a href='https://wileewang
 # 💻 Internships
 - *2024.03 - 2024.07*, [Meituan](https://www.meituan.com)<img src="images/meituan.png" alt="meituan-Logo" style="height:1.2em; vertical-align:middle;">, Algorithm strategy, Beijing.
 
-# 💬 Invited Talks
-- *2025.04*, Sorry, I'm just a little trash at the moment. 
+<!-- # 💬 Invited Talks
+- *2025.04*, Sorry, I'm just a little trash at the moment.  -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 📄 My Resume
+<!-- - [English Resume / 英文简历](../images/Yihua_Du_CV.pdf) | [Chinese Resume / 中文简历](../images/杜壹华_20251216.pdf)  -->
+- [English Resume](../images/Yihua_Du_CV.pdf) / [中文简历](../images/杜壹华_20251216.pdf).
+
+---
+
+<p style="text-align: center; color: #888; font-size: 0.9em; margin-top: 2em;">
+Last Updated: December 18 2025
+</p>
