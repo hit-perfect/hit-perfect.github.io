@@ -37,31 +37,63 @@ At present, I am mainly working under the guidance of <a href='https://wileewang
 
 
 # 🔥 News
-- *2025.12*: &nbsp;❤️ We Release Project Page of [*StereoPilot*](https://hit-perfect.github.io/StereoPilot/) (Hope you like it! Code and paper coming soon)
-- *2025.12*: &nbsp;❤️ We Release Project Page of [*VideoMemory*](https://hit-perfect.github.io/VideoMemory/) (Hope you like it! Code and paper coming soon)
-- *2025.12*: &nbsp;🏎️ See you at the 2026 Formula 1 Chinese Grand Prix in Shanghai!!!
-- *2025.12*: &nbsp;❤️ We will share our latest two works within 10 days. Please stay tuned. 
+- *2025.12.19*: &nbsp;❤️ We Release Project Page of [*StereoPilot*](https://hit-perfect.github.io/StereoPilot/) 🌟🌟(We also release the code and paper)🌟🌟
+- *2025.12.16*: &nbsp;❤️ We Release Project Page of [*VideoMemory*](https://hit-perfect.github.io/VideoMemory/) (Hope you like it! Code and paper coming soon)
+- *2025.12.11*: &nbsp;🏎️ See you at the 2026 Formula 1 Chinese Grand Prix in Shanghai!!!
 - *2025.03*: &nbsp;🎉 One paper on IQA led by senior Li Yu was accepted by ICME. 
 
 # 📝 Publications
 
+*denotes equal contribution, <sup>†</sup> denotes corresponding author
+
 <!-- 第一个 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NUS Summer workshop 2023</div><img src='images/NUS_summer_workshop.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/StereoPilot/parallel_vs_converged.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[StereoPilot: Learning Unified and Efficient Stereo Conversion via Generative Priors](https://arxiv.org/abs/2512.16915)
+
+Guibao Shen<sup>*</sup>, **Yihua Du**<sup>*</sup>, Wenhang Ge<sup>*</sup>, Jing He, Chirui Chang, Donghao Zhou, Zhen Yang, Luozhou Wang, Xin Tao, Ying-Cong Chen<sup>†</sup>
+
+<span class="link-block">
+<span class="icon"><i class="fas fa-home"></i></span>
+<a href="https://hit-perfect.github.io/StereoPilot/" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
+<span>Project Page</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon"><i class="fab fa-github"></i></span>
+<a href="https://github.com/KlingTeam/StereoPilot" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Code</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon">🤗</span>
+<a href="https://huggingface.co/papers/2512.16915" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Daily Paper</span>
+</a>
+</span>
+
+- Converting a 5-second monocular video into a stereoscopic video takes only 11 seconds. Built both parallel and converged 3D dataset.
+<!-- - This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware. -->
+</div>
+</div>
+
+<!-- 第二个 -->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NUS Summer workshop 2023</div><img src='images/NUS_summer_workshop.png' alt="sym" width="100%" style="max-height: 300px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HaHa_go!helps you fight negative emotions](https://hit-perfect.github.io)
 
-**Yihua Du**, Yixuan Ding, Youxin Zhu, Ruoyan Luo
+**Yihua Du**<sup>*</sup>, Yixuan Ding<sup>*</sup>, Youxin Zhu<sup>*</sup>, Ruoyan Luo<sup>*</sup>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware.
+<!-- - This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware.
 </div>
-</div>
+</div> -->
 
+<!-- 第三个 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Project</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- 第二个 -->
 [Liveness detection method based on multi-angle forensics](https://hit-perfect.github.io)
 
 **Yihua Du**, Puchao Zhou, Yu Li, Shaohui Liu
@@ -87,7 +119,7 @@ At present, I am mainly working under the guidance of <a href='https://wileewang
 
 # 📖 Educations
 - *2021.08 - 2025.09*, <img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:2.15em; vertical-align:middle;"> Bachelor, Harbin Institute of Technology, Harbin. 
-- *2023.07 - 2023.08*, <img src="images/nus-logo.jpg" alt="nus-Logo" style="height:1.7em; vertical-align:middle;"> Summer exchange student, National University of Singapore, Singapore. 
+- *2023.07 - 2023.08*, <img src="images/nus-logo.jpg" alt="nus-Logo" style="height:1.7em; vertical-align:middle;"> Summer Camp student([Workshop](../images/NUS_summer_workshop.png)), National University of Singapore, Singapore. 
 - *2025.09 - (now)*, <img src="images/hkust-logo.png" alt="hkust-Logo" style="height:1.7em; vertical-align:middle;"> M.phil, Hong Kong University of Science and Technology (Guangzhou), Guangzhou.
 
 # 💻 Internships
@@ -102,10 +134,10 @@ At present, I am mainly working under the guidance of <a href='https://wileewang
 
 # 📄 My Resume
 <!-- - [English Resume / 英文简历](../images/Yihua_Du_CV.pdf) | [Chinese Resume / 中文简历](../images/杜壹华_20251216.pdf)  -->
-- [English Resume](../images/Yihua_Du_CV.pdf) / [中文简历](../images/杜壹华_20251216.pdf).
+- [English Resume](../images/CV/Yihua_Du_CV.pdf) / [中文简历](../images/CV/杜壹华_20251216.pdf).
 
 ---
 
 <p style="text-align: center; color: #888; font-size: 0.9em; margin-top: 2em;">
-Last Updated: December 18 2025
+Last Updated: December 19 2025
 </p>
