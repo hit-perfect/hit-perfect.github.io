@@ -29,7 +29,7 @@ I am currently an M.Phil. student in the AI Thrust at <img src="images/UST.png" 
 
 Before that, I received my Bachelor’s degree in Computer Science and Technology from the School of Computer Science and Technology, <img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:2em; vertical-align:middle;">Harbin Institute of Technology, under the supervision of <a href='https://homepage.hit.edu.cn/liushaohui'>Prof. Shaohui Liu</a>, who has been tremendously supportive.
 
-At present, I am mainly working under the guidance of <a href='https://wileewang.github.io/'>Luozhou Wang</a> and <a href='https://dbbpaul.github.io/'>Guibao Shen</a>, both of whom are very kind and supportive. My current research focuses on controllable generation, and I aim to make rapid progress and contributions in this area.
+At present, I am working closely with <a href='https://wileewang.github.io/'>Luozhou Wang</a> and <a href='https://dbbpaul.github.io/'>Guibao Shen</a>, both of whom are very kind and supportive. My current research focuses on controllable generation, and I aim to make rapid progress and contributions in this area.
 
 😍😍😍Please feel free to contact with me via *duyihua0130@gmail.com*😍😍😍
 
@@ -37,7 +37,7 @@ At present, I am mainly working under the guidance of <a href='https://wileewang
 
 
 # 🔥 News
-- *2025.12*: &nbsp;❤️ We Release Project Page of [*StereoPilot*](https://hit-perfect.github.io/StereoPilot/) 🌟🌟(We also release the code and paper)🌟🌟
+- *2025.12*: &nbsp;❤️ We Release Project [Page](https://hit-perfect.github.io/StereoPilot/), [Code](https://github.com/KlingTeam/StereoPilot), [Paper](https://arxiv.org/abs/2512.16915) of StereoPilot.
 - *2025.12*: &nbsp;❤️ We Release Project Page of [*VideoMemory*](https://hit-perfect.github.io/VideoMemory/) (Hope you like it! Code and paper coming soon)
 - *2025.12*: &nbsp;🏎️ See you at the 2026 Formula 1 Chinese Grand Prix in Shanghai!!!
 - *2025.03*: &nbsp;🎉 One paper on IQA led by senior Li Yu was accepted by ICME. 
