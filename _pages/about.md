@@ -70,7 +70,12 @@ Guibao Shen<sup>*</sup>, **Yihua Du**<sup>*</sup>, Wenhang Ge<sup>*</sup>, Jing 
 <a href="https://huggingface.co/papers/2512.16915" class="external-link button is-normal is-rounded is-dark" target="_blank">
 <span>Daily Paper</span>
 </a>
-</span>
+</span> | <span class="link-block">
+<span class="icon">📰</span>
+<a href="https://mp.weixin.qq.com/s/uQ9ygMrFVujnkbZbObKHqA" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>机器之心</span>
+</a>
+<!-- </span> -->
 
 - Converting a 5-second monocular video into a stereoscopic video takes only 11 seconds. Built both parallel and converged 3D dataset.
 <!-- - This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware. -->
