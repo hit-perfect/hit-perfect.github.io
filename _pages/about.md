@@ -37,8 +37,9 @@ At present, I am working closely with <a href='https://wileewang.github.io/'>Luo
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉 StereoPilot was reported by [JiQiZhiXin](https://mp.weixin.qq.com/s/uQ9ygMrFVujnkbZbObKHqA).
 - *2025.12*: &nbsp;❤️ We Release [Project Page](https://hit-perfect.github.io/StereoPilot/), [Code](https://github.com/KlingTeam/StereoPilot), [Paper](https://arxiv.org/abs/2512.16915) of StereoPilot.
-- *2025.12*: &nbsp;❤️ We Release Project Page of [*VideoMemory*](https://hit-perfect.github.io/VideoMemory/) (Hope you like it! Code and paper coming soon)
+- *2025.12*: &nbsp;❤️ We Release Project Page of [*VideoMemory*](https://hit-perfect.github.io/VideoMemory/).(Hope you like it! Code and paper coming soon)
 - *2025.12*: &nbsp;🏎️ See you at the 2026 Formula 1 Chinese Grand Prix in Shanghai!!!
 - *2025.03*: &nbsp;🎉 One paper on IQA led by senior Li Yu was accepted by ICME. 
 
