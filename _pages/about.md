@@ -39,7 +39,7 @@ At present, I am working closely with <a href='https://wileewang.github.io/'>Luo
 # 🔥 News
 - *2025.12*: &nbsp;🎉 StereoPilot was reported by [JiQiZhiXin](https://mp.weixin.qq.com/s/uQ9ygMrFVujnkbZbObKHqA).
 - *2025.12*: &nbsp;❤️ We Release [Project Page](https://hit-perfect.github.io/StereoPilot/), [Code](https://github.com/KlingTeam/StereoPilot), [Paper](https://arxiv.org/abs/2512.16915) of StereoPilot.
-- *2025.12*: &nbsp;❤️ We Release Project Page of [*VideoMemory*](https://hit-perfect.github.io/VideoMemory/).(Hope you like it! Code and paper coming soon)
+- *2025.12*: &nbsp;❤️ We Release [Project Page](https://hit-perfect.github.io/VideoMemory/), [Paper](https://arxiv.org/abs/2601.03655) of VideoMemory.
 - *2025.12*: &nbsp;🏎️ See you at the 2026 Formula 1 Chinese Grand Prix in Shanghai!!!
 - *2025.03*: &nbsp;🎉 One paper on IQA led by senior Li Yu was accepted by ICME. 
 
@@ -79,6 +79,43 @@ Guibao Shen<sup>*</sup>, **Yihua Du**<sup>*</sup>, Wenhang Ge<sup>*</sup>, Jing 
 <!-- </span> -->
 
 - Converting a 5-second monocular video into a stereoscopic video takes only 11 seconds. Built both parallel and converged 3D dataset.
+<!-- - This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware. -->
+</div>
+</div>
+
+
+<!-- 第二个 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/VideoMemory/Teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VideoMemory: Toward Consistent Video Generation via Memory Integration](https://arxiv.org/abs/2601.03655)
+
+Jinsong Zhou<sup>*</sup>, **Yihua Du**<sup>*</sup>, Xinli Xu<sup>*</sup>, Luozhou Wang, Zijie Zhuang, Yehang Zhang, Shuaibo Li, Xiaojun Hu, Bolan Su, Ying-Cong Chen<sup>†</sup>
+
+<span class="link-block">
+<span class="icon"><i class="fas fa-home"></i></span>
+<a href="https://hit-perfect.github.io/VideoMemory/" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
+<span>Project Page</span>
+</a>
+<!-- </span> | <span class="link-block">
+<span class="icon"><i class="fab fa-github"></i></span>
+<a href="https://github.com/KlingTeam/StereoPilot" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Code</span>
+</a> -->
+<!-- </span> | <span class="link-block">
+<span class="icon">🤗</span>
+<a href="https://huggingface.co/papers/2512.16915" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Daily Paper</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon">📰</span>
+<a href="https://mp.weixin.qq.com/s/uQ9ygMrFVujnkbZbObKHqA" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>机器之心</span>
+</a> -->
+<!-- </span> -->
+
+- Propose an entity-centric, dynamic memory bank framework that enables coherent long-form, multi-shot narrative video generation by retrieving and updating character/prop/background states to preserve identity across temporal gaps.
 <!-- - This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware. -->
 </div>
 </div>
@@ -145,5 +182,5 @@ Guibao Shen<sup>*</sup>, **Yihua Du**<sup>*</sup>, Wenhang Ge<sup>*</sup>, Jing 
 ---
 
 <p style="text-align: center; color: #888; font-size: 0.9em; margin-top: 2em;">
-Last Updated: December 19 2025
+Last Updated: January 8 2026
 </p>
