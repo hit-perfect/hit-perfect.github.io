@@ -167,6 +167,7 @@ Jinsong Zhou<sup>*</sup>, **Yihua Du**<sup>*</sup>, Xinli Xu<sup>*</sup>, Luozho
 
 # 💻 Internships
 - *2024.03 - 2024.07*, [Meituan](https://www.meituan.com)<img src="images/meituan.png" alt="meituan-Logo" style="height:1.2em; vertical-align:middle;">, Algorithm strategy, Beijing.
+- *2025.02 - 2025.08*, [ENVISION Lab, HKUST(GZ)](https://envision-research.hkust-gz.edu.cn)<img src="images/hkust-logo.png" alt="hkust-Logo" style="height:1.7em; vertical-align:middle;">, Research Assistant, Guangzhou.
 
 <!-- # 💬 Invited Talks
 - *2025.04*, Sorry, I'm just a little trash at the moment.  -->
