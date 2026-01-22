@@ -184,5 +184,5 @@ Jinsong Zhou<sup>*</sup>, **Yihua Du**<sup>*</sup>, Xinli Xu<sup>*</sup>, Luozho
 ---
 
 <p style="text-align: center; color: #888; font-size: 0.9em; margin-top: 2em;">
-Last Updated: January 8 2026
+Last Updated: January 22 2026
 </p>
