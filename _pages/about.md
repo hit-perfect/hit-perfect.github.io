@@ -166,7 +166,7 @@ Jinsong Zhou<sup>*</sup>, **Yihua Du**<sup>*</sup>, Xinli Xu<sup>*</sup>, Luozho
 - *2025.09 - (now)*, <img src="images/hkust-logo.png" alt="hkust-Logo" style="height:1.7em; vertical-align:middle;"> M.Phil., Hong Kong University of Science and Technology (Guangzhou), Guangzhou.
 
 # 💻 Internships
-- *2026.01 - now*, [Tencent](https://join.qq.com/about.html)<img src="images/tencent_logo.png" alt="Tencent-Logo" style="height:0.8em; vertical-align:middle;">, Computer Vision, Shenzhen.
+- *2026.01 - now*, [Tencent](https://join.qq.com/about.html)<img src="images/tencent_logo.png" alt="Tencent-Logo" style="height:0.8em; vertical-align:middle;">, IEG, Computer Vision, Shenzhen.
 - *2025.02 - 2025.08*, [ENVISION Lab, HKUST(GZ)](https://envision-research.hkust-gz.edu.cn)<img src="images/hkust-logo.png" alt="hkust-Logo" style="height:1.7em; vertical-align:middle;">, Research Assistant, Guangzhou.
 - *2024.03 - 2024.07*, [Meituan](https://www.meituan.com)<img src="images/meituan.png" alt="meituan-Logo" style="height:1.2em; vertical-align:middle;">, Algorithm strategy, Beijing.
 
