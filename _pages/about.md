@@ -181,6 +181,12 @@ Jinsong Zhou<sup>*</sup>, **Yihua Du**<sup>*</sup>, Xinli Xu<sup>*</sup>, Luozho
 <!-- - [English Resume / 英文简历](../images/Yihua_Du_CV.pdf) | [Chinese Resume / 中文简历](../images/杜壹华_20251216.pdf)  -->
 - [English Resume](../images/CV/Yihua_Du_CV.pdf) / [中文简历](../images/CV/杜壹华_20251216.pdf).
 
+
+# 🍭 Habits
+
+- 🏸 Badminton is my absolute favorite! No matter what, I'll be there if you invite me to play!
+- 🎮 I'm also a passionate CS:GO/CS2 enthusiast. [**Click here to watch my perfect moments!**](../cs2_highlights.html)
+
 ---
 
 <p style="text-align: center; color: #888; font-size: 0.9em; margin-top: 2em;">
