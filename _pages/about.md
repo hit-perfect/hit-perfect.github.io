@@ -37,6 +37,7 @@ At present, I am working closely with <a href='https://wileewang.github.io/'>Luo
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🔥 We Release the [Project Page](https://github.com/hit-perfect/Awesome-Video-World-Models), [Paper](https://arxiv.org/abs/2601.17067) of our Video-World-Models survey.
 - *2025.12*: &nbsp;🎉 StereoPilot was reported by [JiQiZhiXin](https://mp.weixin.qq.com/s/uQ9ygMrFVujnkbZbObKHqA).
 - *2025.12*: &nbsp;❤️ We Release [Project Page](https://hit-perfect.github.io/StereoPilot/), [Code](https://github.com/KlingTeam/StereoPilot), [Paper](https://arxiv.org/abs/2512.16915) of StereoPilot.
 - *2025.12*: &nbsp;❤️ We Release [Project Page](https://hit-perfect.github.io/VideoMemory/), [Paper](https://arxiv.org/abs/2601.03655) of VideoMemory.
@@ -76,6 +77,11 @@ Guibao Shen<sup>*</sup>, **Yihua Du**<sup>*</sup>, Wenhang Ge<sup>*</sup>, Jing 
 <a href="https://mp.weixin.qq.com/s/uQ9ygMrFVujnkbZbObKHqA" class="external-link button is-normal is-rounded is-dark" target="_blank">
 <span>机器之心</span>
 </a>
+</span> | <span class="link-block">
+<span class="icon"><i class="ai ai-arxiv"></i></span>
+<a href="https://arxiv.org/abs/2512.16915" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>arXiv</span>
+</a>
 <!-- </span> -->
 
 - Converting a 5-second monocular video into a stereoscopic video takes only 11 seconds. Built both parallel and converged 3D dataset.
@@ -98,6 +104,11 @@ Jinsong Zhou<sup>*</sup>, **Yihua Du**<sup>*</sup>, Xinli Xu<sup>*</sup>, Luozho
 <!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 <span>Project Page</span>
 </a>
+</span> | <span class="link-block">
+<span class="icon"><i class="ai ai-arxiv"></i></span>
+<a href="https://arxiv.org/abs/2601.03655" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>arXiv</span>
+</a>
 <!-- </span> | <span class="link-block">
 <span class="icon"><i class="fab fa-github"></i></span>
 <a href="https://github.com/KlingTeam/StereoPilot" class="external-link button is-normal is-rounded is-dark" target="_blank">
@@ -119,6 +130,42 @@ Jinsong Zhou<sup>*</sup>, **Yihua Du**<sup>*</sup>, Xinli Xu<sup>*</sup>, Luozho
 <!-- - This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware. -->
 </div>
 </div>
+
+<!-- Survey -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/VideoWorldModel/VideoWorldModel_codepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Mechanistic View on Video Generation as World Models: State and Dynamics](https://arxiv.org/abs/2601.17067)
+
+Luozhou Wang<sup>*</sup>, Zhifei Chen<sup>*</sup>, **Yihua Du**, Dongyu Yan, Wenhang Ge, Guibao Shen, Xinli Xu, Leyi Wu, Man Chen, Tianshuo Xu, Peiran Ren, Xin Tao, Pengfei Wan, Ying-Cong Chen<sup>†</sup>
+
+<span class="link-block">
+<span class="icon"><i class="fab fa-github"></i></span>
+<a href="https://github.com/hit-perfect/Awesome-Video-World-Models" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Code</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon">🤗</span>
+<a href="https://huggingface.co/papers/2601.17067" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Daily Paper</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon"><i class="ai ai-arxiv"></i></span>
+<a href="https://arxiv.org/abs/2601.17067" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>arXiv</span>
+</a>
+<!-- </span> | <span class="link-block">
+<span class="icon">📰</span>
+<a href="https://mp.weixin.qq.com/s/uQ9ygMrFVujnkbZbObKHqA" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>机器之心</span>
+</a> -->
+<!-- </span> -->
+
+- Bridge this divide: (1) Taxonomy: Unifying Implicit Context vs. Explicit Latent Compression (2) Evolution: Shifting benchmarks from "Visual Fidelity" to "Physical Persistence" and Causality.
+<!-- - This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware. -->
+</div>
+</div>
+
 
 <!-- 第二个 -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NUS Summer workshop 2023</div><img src='images/NUS_summer_workshop.png' alt="sym" width="100%" style="max-height: 300px; object-fit: contain;"></div></div>
@@ -150,15 +197,15 @@ Jinsong Zhou<sup>*</sup>, **Yihua Du**<sup>*</sup>, Xinli Xu<sup>*</sup>, Luozho
 <!-- - [There is no Publications now, I hope this day will coming soon~~~](https://hit-perfect.github.io) **CVPR 2026** -->
 
 # 🎖 Honors and Awards
-- *2025.06* Liveness detection method based on multi-angle forensics. **Excellent and innovative comprehensive graduation design（卓越创新综合设计奖【哈尔滨工业大学本科生院颁发】）**.
+- *2025.06* Liveness detection method based on multi-angle forensics. **Excellent and innovative comprehensive graduation design（卓越创新综合设计奖【哈尔滨工业大学本科生院颁发】）**
 <!-- - *2024.11* HKUST RBM Postgraduate Scholarship. **240000 RMB**.  -->
 - *2024.11* HKUST(GZ) RBM Postgraduate Scholarship. 
-- *2024.11* The Sixth Global Campus Artificial Intelligence Algorithm Elite Competition. **The accuracy was second in the whole list and won the second prize in the nation（国家二等奖准确率榜单第二）**. 
-- *2024.09* Virtual authoring Communication Community based on Diffusion Model. **National Innovation and Entrepreneurship（国家级大创）**.
-- *2024.04* The 17th National College Students Software Innovation Competition. **Second prize in Northeast Regional Competition（东北赛区前 20 名）**.  
+- *2024.11* The Sixth Global Campus Artificial Intelligence Algorithm Elite Competition. **The accuracy was second in the whole list and won the second prize in the nation（国家二等奖准确率榜单第二）**
+- *2024.09* Virtual authoring Communication Community based on Diffusion Model. **National Innovation and Entrepreneurship（国家级大创）**
+<!-- - *2024.04* The 17th National College Students Software Innovation Competition. **Second prize in Northeast Regional Competition（东北赛区前 20 名）**.   -->
 <!-- - *2023.07* American College Student Mathematical Modeling Competition. **H Prize(美赛)**. -->
-- *2022,2023* Excellent student of the school **（校优秀学生）**.
-- *2022.09* HIT third-class name Scholarship **（三等人民奖学金）**.
+- *2022,2023* Excellent student of the school **（校优秀学生）**
+- *2022.09* HIT third-class name Scholarship **（三等人民奖学金）**
 
 # 📖 Educations
 - *2021.08 - 2025.09*, <img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:2.15em; vertical-align:middle;"> Bachelor, Harbin Institute of Technology, Harbin. 
