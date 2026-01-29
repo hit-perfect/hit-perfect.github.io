@@ -42,7 +42,31 @@ At present, I am working closely with <a href='https://wileewang.github.io/'>Luo
 - *2025.12*: &nbsp;❤️ We Release [Project Page](https://hit-perfect.github.io/StereoPilot/), [Code](https://github.com/KlingTeam/StereoPilot), [Paper](https://arxiv.org/abs/2512.16915) of StereoPilot.
 - *2025.12*: &nbsp;❤️ We Release [Project Page](https://hit-perfect.github.io/VideoMemory/), [Paper](https://arxiv.org/abs/2601.03655) of VideoMemory.
 - *2025.12*: &nbsp;🏎️ See you at the 2026 Formula 1 Chinese Grand Prix in Shanghai!!!
-- *2025.03*: &nbsp;🎉 One paper on IQA led by senior Li Yu was accepted by ICME. 
+
+<div id="more-news" style="display: none;">
+
+- *2025.03*: &nbsp;🎉 One paper on IQA led by senior Li Yu was accepted by ICME.
+
+</div>
+
+<a id="toggle-news" onclick="toggleNews()" style="color: #666; cursor: pointer; font-size: 14px; text-decoration: none; display: inline-block; margin-top: 5px;">
+  <span id="toggle-text">Show more news ▼</span>
+</a>
+
+<script>
+function toggleNews() {
+  var moreNews = document.getElementById('more-news');
+  var toggleText = document.getElementById('toggle-text');
+  
+  if (moreNews.style.display === 'none') {
+    moreNews.style.display = 'block';
+    toggleText.textContent = 'Show less news ▲';
+  } else {
+    moreNews.style.display = 'none';
+    toggleText.textContent = 'Show more news ▼';
+  }
+}
+</script> 
 
 # 📝 Publications
 
