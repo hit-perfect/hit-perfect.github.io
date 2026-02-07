@@ -37,10 +37,12 @@ At present, I am working closely with <a href='https://wileewang.github.io/'>Luo
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🔥 We Release the [Project Page](https://github.com/hit-perfect/Awesome-Video-World-Models), [Paper](https://arxiv.org/abs/2601.17067) of our Video-World-Models survey.
+- *2026.02*: &nbsp;🎉 Our Video-World-Models survey was reported by [JiQiZhiXin](https://mp.weixin.qq.com/s/_FjKtSbdoEUvPQ-FGvlmgQ).
+- *2026.01*: &nbsp;❤️ Joined [LIGHTSPEED STUDIOS](https://guangzi.qq.com/), <img src="images/tencent_logo.png" alt="Tencent-Logo" style="height:0.8em; vertical-align:middle;"> as a Researcher.
+<!-- - *2026.01*: &nbsp;🔥 We Release the [Project Page](https://github.com/hit-perfect/Awesome-Video-World-Models), [Paper](https://arxiv.org/abs/2601.17067) of our Video-World-Models survey. -->
 - *2025.12*: &nbsp;🎉 StereoPilot was reported by [JiQiZhiXin](https://mp.weixin.qq.com/s/uQ9ygMrFVujnkbZbObKHqA).
-- *2025.12*: &nbsp;❤️ We Release [Project Page](https://hit-perfect.github.io/StereoPilot/), [Code](https://github.com/KlingTeam/StereoPilot), [Paper](https://arxiv.org/abs/2512.16915) of StereoPilot.
-- *2025.12*: &nbsp;❤️ We Release [Project Page](https://hit-perfect.github.io/VideoMemory/), [Paper](https://arxiv.org/abs/2601.03655) of VideoMemory.
+<!-- - *2025.12*: &nbsp;❤️ We Release [Project Page](https://hit-perfect.github.io/StereoPilot/), [Code](https://github.com/KlingTeam/StereoPilot), [Paper](https://arxiv.org/abs/2512.16915) of StereoPilot. -->
+<!-- - *2025.12*: &nbsp;❤️ We Release [Project Page](https://hit-perfect.github.io/VideoMemory/), [Paper](https://arxiv.org/abs/2601.03655) of VideoMemory. -->
 - *2025.12*: &nbsp;🏎️ See you at the 2026 Formula 1 Chinese Grand Prix in Shanghai!!!
 
 <div id="more-news" style="display: none;">
@@ -178,12 +180,11 @@ Luozhou Wang<sup>*</sup>, Zhifei Chen<sup>*</sup>, **Yihua Du**, Dongyu Yan, Wen
 <a href="https://arxiv.org/abs/2601.17067" class="external-link button is-normal is-rounded is-dark" target="_blank">
 <span>arXiv</span>
 </a>
-<!-- </span> | <span class="link-block">
+</span> | <span class="link-block">
 <span class="icon">📰</span>
-<a href="https://mp.weixin.qq.com/s/uQ9ygMrFVujnkbZbObKHqA" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<a href="https://mp.weixin.qq.com/s/_FjKtSbdoEUvPQ-FGvlmgQ" class="external-link button is-normal is-rounded is-dark" target="_blank">
 <span>机器之心</span>
-</a> -->
-<!-- </span> -->
+</a>
 
 - Bridge this divide: (1) Taxonomy: Unifying Implicit Context vs. Explicit Latent Compression (2) Evolution: Shifting benchmarks from "Visual Fidelity" to "Physical Persistence" and Causality.
 <!-- - This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware. -->
