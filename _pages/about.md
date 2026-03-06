@@ -251,7 +251,7 @@ Luozhou Wang<sup>*</sup>, Zhifei Chen<sup>*</sup>, **Yihua Du**, Dongyu Yan, Wen
 
 # 📄 My Resume
 <!-- - [English Resume / 英文简历](../images/Yihua_Du_CV.pdf) | [Chinese Resume / 中文简历](../images/杜壹华_20251216.pdf)  -->
-- [English Resume](../images/CV/Yihua_Du_CV.pdf) / [中文简历](../images/CV/Yihua_Du_CV.pdf).
+- [English Resume](../images/CV/Yihua_Du_CV.pdf) / [中文简历](../images/CV/杜壹华_20250306.pdf).
 
 
 # 🍭 Habits
