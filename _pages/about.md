@@ -221,17 +221,6 @@ Luozhou Wang<sup>*</sup>, Zhifei Chen<sup>*</sup>, **Yihua Du**, Dongyu Yan, Wen
 
 <!-- - [There is no Publications now, I hope this day will coming soon~~~](https://hit-perfect.github.io) **CVPR 2026** -->
 
-# 🎖 Honors and Awards
-- *2025.06* Liveness detection method based on multi-angle forensics. **Excellent and innovative comprehensive graduation design（卓越创新综合设计奖【哈尔滨工业大学本科生院颁发】）**
-<!-- - *2024.11* HKUST RBM Postgraduate Scholarship. **240000 RMB**.  -->
-- *2024.11* HKUST(GZ) RBM Postgraduate Scholarship. 
-- *2024.11* The Sixth Global Campus Artificial Intelligence Algorithm Elite Competition. **The accuracy was second in the whole list and won the second prize in the nation（国家二等奖准确率榜单第二）**
-- *2024.09* Virtual authoring Communication Community based on Diffusion Model. **National Innovation and Entrepreneurship（国家级大创）**
-<!-- - *2024.04* The 17th National College Students Software Innovation Competition. **Second prize in Northeast Regional Competition（东北赛区前 20 名）**.   -->
-<!-- - *2023.07* American College Student Mathematical Modeling Competition. **H Prize(美赛)**. -->
-- *2022,2023* Excellent student of the school **（校优秀学生）**
-- *2022.09* HIT third-class name Scholarship **（三等人民奖学金）**
-
 # 📖 Educations
 - *2021.08 - 2025.09*, <img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:2.15em; vertical-align:middle;"> Bachelor, Harbin Institute of Technology, Harbin. 
 - *2023.07 - 2023.08*, <img src="images/nus-logo.jpg" alt="nus-Logo" style="height:1.7em; vertical-align:middle;"> Summer Camp student([Workshop](../images/NUS_summer_workshop.png)), National University of Singapore, Singapore. 
@@ -253,6 +242,16 @@ Luozhou Wang<sup>*</sup>, Zhifei Chen<sup>*</sup>, **Yihua Du**, Dongyu Yan, Wen
 <!-- - [English Resume / 英文简历](../images/Yihua_Du_CV.pdf) | [Chinese Resume / 中文简历](../images/杜壹华_20251216.pdf)  -->
 - [English Resume](../images/CV/Yihua_Du_CV.pdf) / [中文简历](../images/CV/杜壹华_20250306.pdf).
 
+# 🎖 Honors and Awards
+- *2025.06* Liveness detection method based on multi-angle forensics. **Excellent and innovative comprehensive graduation design（卓越创新综合设计奖【哈尔滨工业大学本科生院颁发】）**
+<!-- - *2024.11* HKUST RBM Postgraduate Scholarship. **240000 RMB**.  -->
+- *2024.11* HKUST(GZ) RBM Postgraduate Scholarship. 
+- *2024.11* The Sixth Global Campus Artificial Intelligence Algorithm Elite Competition. **The accuracy was second in the whole list and won the second prize in the nation（国家二等奖准确率榜单第二）**
+- *2024.09* Virtual authoring Communication Community based on Diffusion Model. **National Innovation and Entrepreneurship（国家级大创）**
+<!-- - *2024.04* The 17th National College Students Software Innovation Competition. **Second prize in Northeast Regional Competition（东北赛区前 20 名）**.   -->
+<!-- - *2023.07* American College Student Mathematical Modeling Competition. **H Prize(美赛)**. -->
+- *2022,2023* Excellent student of the school **（校优秀学生）**
+- *2022.09* HIT third-class name Scholarship **（三等人民奖学金）**
 
 # 🍭 Habits
 

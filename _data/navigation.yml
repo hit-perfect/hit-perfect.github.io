@@ -9,9 +9,6 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Educations"
     url: "/#-educations"
 
@@ -23,6 +20,9 @@ main:
   
   - title: "My Resume"
     url: "/#-my-resume"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Habits"
     url: "/#-habits"
