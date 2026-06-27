@@ -131,6 +131,11 @@ Jinsong Zhou<sup>*</sup>, **Yihua Du**<sup>*</sup>, Xinli Xu<sup>*</sup>, Luozho
 <span>Project Page</span>
 </a>
 </span> | <span class="link-block">
+<span class="icon"><i class="fab fa-github"></i></span>
+<a href="https://github.com/EnVision-Research/VideoMemory" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Code</span>
+</a>
+</span> | <span class="link-block">
 <span class="icon"><i class="ai ai-arxiv"></i></span>
 <a href="https://arxiv.org/abs/2601.03655" class="external-link button is-normal is-rounded is-dark" target="_blank">
 <span>arXiv</span>
