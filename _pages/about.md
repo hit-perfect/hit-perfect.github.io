@@ -29,7 +29,7 @@ I am currently an M.Phil. student in the AI Thrust at <img src="images/UST.png" 
 
 Before that, I received my Bachelor’s degree in Computer Science and Technology from the School of Computer Science and Technology, <img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:2em; vertical-align:middle;">Harbin Institute of Technology, under the supervision of <a href='https://homepage.hit.edu.cn/liushaohui'>Prof. Shaohui Liu</a>, who has been tremendously supportive.
 
-At present, I am working closely with <a href='https://wileewang.github.io/'>Luozhou Wang</a> and <a href='https://dbbpaul.github.io/'>Guibao Shen</a>, both of whom are very kind and supportive. My current research focuses on controllable generation, and I aim to make rapid progress and contributions in this area.
+At present, I am working closely with <a href='https://wileewang.github.io/'>Luozhou Wang</a> and <a href='https://dbbpaul.github.io/'>Guibao Shen</a>, both of whom are very kind and supportive. My current research focuses on controllable video generation and interactive world model, and I aim to make rapid progress and contributions in these areas.
 
 😍😍😍Please feel free to contact with me via *duyihua0130@gmail.com*😍😍😍
 
@@ -37,6 +37,7 @@ At present, I am working closely with <a href='https://wileewang.github.io/'>Luo
 
 
 # 🔥 News
+<!-- - *2026.08*: &nbsp;❤️ We released the [Project Page](https://zhifeichen097.github.io/ReWorld/), [Code](https://github.com/zhifeichen097/ReWorld), and [Paper](https://arxiv.org/abs/2608.23565) of ReWorld. -->
 - *2026.02*: &nbsp;🎉 Our Video-World-Models survey was reported by [JiQiZhiXin](https://mp.weixin.qq.com/s/_FjKtSbdoEUvPQ-FGvlmgQ).
 - *2026.01*: &nbsp;❤️ Joined [LIGHTSPEED STUDIOS](https://guangzi.qq.com/), <img src="images/tencent_logo.png" alt="Tencent-Logo" style="height:0.8em; vertical-align:middle;"> as a Researcher.
 <!-- - *2026.01*: &nbsp;🔥 We Release the [Project Page](https://github.com/hit-perfect/Awesome-Video-World-Models), [Paper](https://arxiv.org/abs/2601.17067) of our Video-World-Models survey. -->
@@ -73,6 +74,41 @@ function toggleNews() {
 # 📝 Publications
 
 *denotes equal contribution, <sup>†</sup> denotes corresponding author
+
+<!-- ReWorld -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/ReWorld/reworld_framework.png' alt="ReWorld framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ReWorld: An Interactive World Model with Long-Horizon Memory](https://arxiv.org/abs/2608.23565)
+
+Zhifei Chen<sup>*</sup>, Luozhou Wang<sup>*</sup>, Guibao Shen, Dongyu Yan, Shuai Yang, Tianshuo Xu, **Yihua Du**, Wei Wang, Tianyi Gui, Lianghua Huang, Ying-Cong Chen<sup>†</sup>
+
+<span class="link-block">
+<span class="icon"><i class="fas fa-home"></i></span>
+<a href="https://zhifeichen097.github.io/ReWorld/" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Project Page</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon"><i class="fab fa-github"></i></span>
+<a href="https://github.com/zhifeichen097/ReWorld" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Code</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon">🤗</span>
+<a href="https://huggingface.co/papers/2608.23565" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Daily Paper</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon"><i class="ai ai-arxiv"></i></span>
+<a href="https://arxiv.org/abs/2608.23565" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>arXiv</span>
+</a>
+</span>
+
+- ReWorld decouples short-horizon action control from long-horizon memory and combines a fixed-budget KV cache with a pose-indexed landmark bank, enabling real-time 704×1280 interactive video streaming with consistent recall of revisited scenes.
+
+</div>
+</div>
 
 <!-- 第一个 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/StereoPilot/parallel_vs_converged.png' alt="sym" width="100%"></div></div>
