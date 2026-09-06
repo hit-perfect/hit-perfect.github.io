@@ -37,6 +37,7 @@ At present, I am working closely with <a href='https://wileewang.github.io/'>Luo
 
 
 # 🔥 News
+- *2026.09*: &nbsp;❤️ We released SolarWM and ReWorld, great works.
 <!-- - *2026.08*: &nbsp;❤️ We released the [Project Page](https://zhifeichen097.github.io/ReWorld/), [Code](https://github.com/zhifeichen097/ReWorld), and [Paper](https://arxiv.org/abs/2608.23565) of ReWorld. -->
 - *2026.02*: &nbsp;🎉 Our Video-World-Models survey was reported by [JiQiZhiXin](https://mp.weixin.qq.com/s/_FjKtSbdoEUvPQ-FGvlmgQ).
 - *2026.01*: &nbsp;❤️ Joined [LIGHTSPEED STUDIOS](https://guangzi.qq.com/), <img src="images/tencent_logo.png" alt="Tencent-Logo" style="height:0.8em; vertical-align:middle;"> as a Researcher.
@@ -70,6 +71,48 @@ function toggleNews() {
   }
 }
 </script> 
+
+# 📑 Technical Reports
+
+<!-- SolarWM -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/SolarWM/solar_teaser.png' alt="SolarWM overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://arxiv.org/abs/2609.02886)
+
+Junchao Huang, Guian Fang, Shengju Qian, Xianghao Kong, Zhuoran Zhao, Wei Huang, **Yihua Du**, Zixin Zhang, Justin Cui, Yuchao Gu, Yukang Chen, Xinting Hu, Tianyu He, Shaoshuai Shi, Zhuotao Tian, Xin Wang, Mike Zheng Shou, Li Jiang
+
+<span class="link-block">
+<span class="icon"><i class="fas fa-home"></i></span>
+<a href="https://junchao-cs.github.io/SolarWM-Web/" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Project Page</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon"><i class="fab fa-github"></i></span>
+<a href="https://github.com/Junchao-cs/SolarWM" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Code</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon">🤗</span>
+<a href="https://huggingface.co/datasets/junchaoh-cs/SolarWM-Data" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Dataset</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon">🤗</span>
+<a href="https://huggingface.co/collections/junchaoh-cs/solarwm" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Models</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon"><i class="ai ai-arxiv"></i></span>
+<a href="https://arxiv.org/abs/2609.02886" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>arXiv</span>
+</a>
+</span>
+
+- SolarWM provides an open foundation spanning 1.43 million clips from 10 source datasets and a unified three-stage training recipe across four 5B–33B video backbones, enabling real-time interactive rollouts from minutes to hours after training only on 5-second clips.
+
+</div>
+</div>
 
 # 📝 Publications
 
