@@ -327,20 +327,28 @@ Luozhou Wang<sup>*</sup>, Zhifei Chen<sup>*</sup>, **Yihua Du**, Dongyu Yan, Wen
 - [English Resume](../images/CV/Yihua_Du_CV.pdf) / [中文简历](../images/CV/杜壹华_20250306.pdf).
 
 # 🎖 Honors and Awards
-- *2025.06* Liveness detection method based on multi-angle forensics. **Excellent and innovative comprehensive graduation design（卓越创新综合设计奖【哈尔滨工业大学本科生院颁发】）**
-<!-- - *2024.11* HKUST RBM Postgraduate Scholarship. **240000 RMB**.  -->
-- *2024.11* HKUST(GZ) RBM Postgraduate Scholarship. 
+{% comment %}
+- *2025.06* Liveness detection method based on multi-angle forensics. **Excellent and innovative comprehensive graduation design**.
+- *2024.11* HKUST RBM Postgraduate Scholarship. **240000 RMB**.
+{% endcomment %}
+
+- *2024.11* - HKUST(GZ) RBM Postgraduate Scholarship. 
+- *2022,2023* - Excellent student of the school.
+- *2022.09* - HIT third-class name Scholarship.
+
+{% comment %}
 - *2024.11* The Sixth Global Campus Artificial Intelligence Algorithm Elite Competition. **The accuracy was second in the whole list and won the second prize in the nation（国家二等奖准确率榜单第二）**
 - *2024.09* Virtual authoring Communication Community based on Diffusion Model. **National Innovation and Entrepreneurship（国家级大创）**
-<!-- - *2024.04* The 17th National College Students Software Innovation Competition. **Second prize in Northeast Regional Competition（东北赛区前 20 名）**.   -->
-<!-- - *2023.07* American College Student Mathematical Modeling Competition. **H Prize(美赛)**. -->
+- *2024.04* The 17th National College Students Software Innovation Competition. **Second prize in Northeast Regional Competition（东北赛区前 20 名）**.
+- *2023.07* American College Student Mathematical Modeling Competition. **H Prize(美赛)**.
 - *2022,2023* Excellent student of the school **（校优秀学生）**
 - *2022.09* HIT third-class name Scholarship **（三等人民奖学金）**
+{% endcomment %}
 
 # 🍭 Habits
 
 - 🏸 Badminton is my absolute favorite! No matter what, I'll be there if you invite me to play!
-- 🎮 I'm also a passionate CS:GO/CS2 enthusiast. [**Click here to watch my perfect moments!**](../cs2_highlights.html)
+- 🎮 I'm also a passionate CS:GO/CS2 enthusiast. [**Click here to watch my perfect moments!(Ha ha ha ha. Please forgive me for not updating these previous highlights very often.)**](../cs2_highlights.html)
 
 ---
 
