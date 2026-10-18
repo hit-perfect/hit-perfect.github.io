@@ -155,7 +155,6 @@ Guibao Shen<sup>*</sup>, **Yihua Du**<sup>*</sup>, Wenhang Ge<sup>*</sup>, Jing 
 <!-- </span> -->
 
 - Converting a 5-second monocular video into a stereoscopic video takes only 11 seconds. Built both parallel and converged 3D dataset.
-<!-- - This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware. -->
 </div>
 </div>
 
@@ -202,7 +201,6 @@ Jinsong Zhou<sup>*</sup>, **Yihua Du**<sup>*</sup>, Xinli Xu<sup>*</sup>, Luozho
 <!-- </span> -->
 
 - Propose an entity-centric, dynamic memory bank framework that enables coherent long-form, multi-shot narrative video generation by retrieving and updating character/prop/background states to preserve identity across temporal gaps.
-<!-- - This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware. -->
 </div>
 </div>
 
@@ -266,7 +264,6 @@ Luozhou Wang<sup>*</sup>, Zhifei Chen<sup>*</sup>, **Yihua Du**, Dongyu Yan, Wen
 </a>
 
 - Bridge this divide: (1) Taxonomy: Unifying Implicit Context vs. Explicit Latent Compression (2) Evolution: Shifting benchmarks from "Visual Fidelity" to "Physical Persistence" and Causality.
-<!-- - This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware. -->
 </div>
 </div>
 
@@ -306,24 +303,10 @@ Zhifei Chen<sup>*</sup>, Luozhou Wang<sup>*</sup>, Guibao Shen, Dongyu Yan, Shua
 </div>
 </div>
 
-<!-- 第二个 -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NUS Summer workshop 2023</div><img src='images/NUS_summer_workshop.png' alt="sym" width="100%" style="max-height: 300px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[HaHa_go!helps you fight negative emotions](https://hit-perfect.github.io)
-
-**Yihua Du**<sup>*</sup>, Yixuan Ding<sup>*</sup>, Youxin Zhu<sup>*</sup>, Ruoyan Luo<sup>*</sup>
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware.
-</div>
-</div> -->
-
 <!-- - [There is no Publications now, I hope this day will coming soon~~~](https://hit-perfect.github.io) **CVPR 2026** -->
 
 # 📖 Educations
 - *2021.08 - 2025.09*, <img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:2.15em; vertical-align:middle;"> Bachelor, Harbin Institute of Technology, Harbin. 
-- *2023.07 - 2023.08*, <img src="images/nus-logo.jpg" alt="nus-Logo" style="height:1.7em; vertical-align:middle;"> Summer Camp student([Workshop](../images/NUS_summer_workshop.png)), National University of Singapore, Singapore. 
 - *2025.09 - (now)*, <img src="images/hkust-logo.png" alt="hkust-Logo" style="height:1.7em; vertical-align:middle;"> M.Phil., Hong Kong University of Science and Technology (Guangzhou), Guangzhou.
 
 # 💻 Internships
