@@ -118,42 +118,7 @@ Junchao Huang, Guian Fang, Shengju Qian, Xianghao Kong, Zhuoran Zhao, Wei Huang,
 
 *denotes equal contribution, <sup>†</sup> denotes corresponding author
 
-<!-- ReWorld -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/ReWorld/reworld_framework.png' alt="ReWorld framework" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ReWorld: An Interactive World Model with Long-Horizon Memory](https://arxiv.org/abs/2608.23565)
-
-Zhifei Chen<sup>*</sup>, Luozhou Wang<sup>*</sup>, Guibao Shen, Dongyu Yan, Shuai Yang, Tianshuo Xu, **Yihua Du**, Wei Wang, Tianyi Gui, Lianghua Huang, Ying-Cong Chen<sup>†</sup>
-
-<span class="link-block">
-<span class="icon"><i class="fas fa-home"></i></span>
-<a href="https://zhifeichen097.github.io/ReWorld/" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Project Page</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon"><i class="fab fa-github"></i></span>
-<a href="https://github.com/zhifeichen097/ReWorld" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Code</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon">🤗</span>
-<a href="https://huggingface.co/papers/2608.23565" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Daily Paper</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon"><i class="ai ai-arxiv"></i></span>
-<a href="https://arxiv.org/abs/2608.23565" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>arXiv</span>
-</a>
-</span>
-
-- ReWorld decouples short-horizon action control from long-horizon memory and combines a fixed-budget KV cache with a pose-indexed landmark bank, enabling real-time 704×1280 interactive video streaming with consistent recall of revisited scenes.
-
-</div>
-</div>
-
-<!-- 第一个 -->
+<!-- StereoPilot -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/StereoPilot/parallel_vs_converged.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -195,7 +160,7 @@ Guibao Shen<sup>*</sup>, **Yihua Du**<sup>*</sup>, Wenhang Ge<sup>*</sup>, Jing 
 </div>
 
 
-<!-- 第二个 -->
+<!-- VideoMemory -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/VideoMemory/Teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -241,6 +206,36 @@ Jinsong Zhou<sup>*</sup>, **Yihua Du**<sup>*</sup>, Xinli Xu<sup>*</sup>, Luozho
 </div>
 </div>
 
+<!-- RAR -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/RAR/stride_rope.png' alt="RAR Stride-RoPE across multiple rollout rates" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RAR: Rate-Adaptive Rollout for Time-Consistent Interactive World Models](https://arxiv.org/abs/2610.16302)
+
+Yaoyang Liu<sup>*</sup>, Dongyu Yan<sup>*</sup>, **Yihua Du**, Shengju Qian, Zeke Xie, Xin Wang, Ying-Cong Chen, Long Chen<sup>†</sup>
+
+<span class="link-block">
+<span class="icon"><i class="fas fa-home"></i></span>
+<a href="https://hkust-longgroup.github.io/RAR/" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Project Page</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon">🤗</span>
+<a href="https://huggingface.co/papers/2610.16302" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Daily Paper</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon"><i class="ai ai-arxiv"></i></span>
+<a href="https://arxiv.org/abs/2610.16302" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>arXiv</span>
+</a>
+</span>
+
+- RAR uses Stride-RoPE and synchronized multi-stride video and control sampling to generate at controllable temporal rates, switch rates mid-rollout without resetting history, and extend physical horizons.
+
+</div>
+</div>
+
 <!-- Survey -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/VideoWorldModel/VideoWorldModel_codepage.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -276,6 +271,41 @@ Luozhou Wang<sup>*</sup>, Zhifei Chen<sup>*</sup>, **Yihua Du**, Dongyu Yan, Wen
 </div>
 
 
+<!-- ReWorld -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/ReWorld/reworld_framework.png' alt="ReWorld framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ReWorld: An Interactive World Model with Long-Horizon Memory](https://arxiv.org/abs/2608.23565)
+
+Zhifei Chen<sup>*</sup>, Luozhou Wang<sup>*</sup>, Guibao Shen, Dongyu Yan, Shuai Yang, Tianshuo Xu, **Yihua Du**, Wei Wang, Tianyi Gui, Lianghua Huang, Ying-Cong Chen<sup>†</sup>
+
+<span class="link-block">
+<span class="icon"><i class="fas fa-home"></i></span>
+<a href="https://zhifeichen097.github.io/ReWorld/" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Project Page</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon"><i class="fab fa-github"></i></span>
+<a href="https://github.com/zhifeichen097/ReWorld" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Code</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon">🤗</span>
+<a href="https://huggingface.co/papers/2608.23565" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>Daily Paper</span>
+</a>
+</span> | <span class="link-block">
+<span class="icon"><i class="ai ai-arxiv"></i></span>
+<a href="https://arxiv.org/abs/2608.23565" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span>arXiv</span>
+</a>
+</span>
+
+- ReWorld decouples short-horizon action control from long-horizon memory and combines a fixed-budget KV cache with a pose-indexed landmark bank, enabling real-time 704×1280 interactive video streaming with consistent recall of revisited scenes.
+
+</div>
+</div>
+
 <!-- 第二个 -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NUS Summer workshop 2023</div><img src='images/NUS_summer_workshop.png' alt="sym" width="100%" style="max-height: 300px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -288,20 +318,6 @@ Luozhou Wang<sup>*</sup>, Zhifei Chen<sup>*</sup>, **Yihua Du**, Dongyu Yan, Wen
 <!-- - This is the workshop activity done at nus. It was the first time that I finished and deployed artificial intelligence algorithms and combined them with hardware.
 </div>
 </div> -->
-
-<!-- 第三个 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Project</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Liveness detection method based on multi-angle forensics](https://hit-perfect.github.io)
-
-**Yihua Du**, Puchao Zhou, Yu Li, Shaohui Liu
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- This work is completed under the guidance of my undergraduate graduation supervisor and the laboratory senior. 
-- Won the excellent innovation comprehensive graduation design
-</div>
-</div>
 
 <!-- - [There is no Publications now, I hope this day will coming soon~~~](https://hit-perfect.github.io) **CVPR 2026** -->
 
@@ -328,7 +344,6 @@ Luozhou Wang<sup>*</sup>, Zhifei Chen<sup>*</sup>, **Yihua Du**, Dongyu Yan, Wen
 
 # 🎖 Honors and Awards
 {% comment %}
-- *2025.06* Liveness detection method based on multi-angle forensics. **Excellent and innovative comprehensive graduation design**.
 - *2024.11* HKUST RBM Postgraduate Scholarship. **240000 RMB**.
 {% endcomment %}
 
