@@ -37,6 +37,7 @@ At present, I am working closely with <a href='https://wileewang.github.io/'>Luo
 
 
 # 🔥 News
+- *2026.10*: &nbsp;✍️ SolarX-team published two technical blogs: [SolarWM H3 Realtime Interaction](https://solarx-team.github.io/SolarWM-H3-Realtime/) and [H3 Streaming VAE Decoder](https://solarx-team.github.io/H3-Streaming-VAE-Decoder/).
 - *2026.09*: &nbsp;❤️ We released SolarWM and ReWorld, great works.
 <!-- - *2026.08*: &nbsp;❤️ We released the [Project Page](https://zhifeichen097.github.io/ReWorld/), [Code](https://github.com/zhifeichen097/ReWorld), and [Paper](https://arxiv.org/abs/2608.23565) of ReWorld. -->
 - *2026.02*: &nbsp;🎉 Our Video-World-Models survey was reported by [JiQiZhiXin](https://mp.weixin.qq.com/s/_FjKtSbdoEUvPQ-FGvlmgQ).
@@ -304,6 +305,12 @@ Zhifei Chen<sup>*</sup>, Luozhou Wang<sup>*</sup>, Guibao Shen, Dongyu Yan, Shua
 </div>
 
 <!-- - [There is no Publications now, I hope this day will coming soon~~~](https://hit-perfect.github.io) **CVPR 2026** -->
+
+# ✍️ Blogs
+- *2026.10* [SolarWM H3 Realtime Interaction](https://solarx-team.github.io/SolarWM-H3-Realtime/)<br>
+  **Yihua Du**, Junchao Huang, Bohong Chen, Yaoyang Liu, Zixin Zhang, Xianghao Kong, Dongyu Yan, Zhuoran Zhao, Guian Fang, Yajing Chen, Shengju Qian.
+- *2026.10* [H3 Streaming VAE Decoder](https://solarx-team.github.io/H3-Streaming-VAE-Decoder/)<br>
+  Bohong Chen, Yajing Chen, **Yihua Du**, Junchao Huang, Guian Fang, Shengju Qian.
 
 # 📖 Educations
 - *2021.08 - 2025.09*, <img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:2.15em; vertical-align:middle;"> Bachelor, Harbin Institute of Technology, Harbin. 
