@@ -314,7 +314,7 @@ Zhifei Chen<sup>*</sup>, Luozhou Wang<sup>*</sup>, Guibao Shen, Dongyu Yan, Shua
 
 # 📖 Educations
 - *2021.08 - 2025.09*, <img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:2.15em; vertical-align:middle;"> Bachelor, Harbin Institute of Technology, Harbin. 
-- *2025.09 - (now)*, <img src="images/hkust-logo.png" alt="hkust-Logo" style="height:1.7em; vertical-align:middle;"> M.Phil., Hong Kong University of Science and Technology (Guangzhou), Guangzhou.
+- *2025.09 - (now)*, <img src="images/hkust-logo.png" alt="hkust-Logo" style="height:1.7em; vertical-align:middle;"> M.Phil., The Hong Kong University of Science and Technology (Guangzhou), Guangzhou.
 
 # 💻 Internships
 - *2026.01 - now*, [Tencent](https://join.qq.com/about.html)<img src="images/tencent_logo.png" alt="Tencent-Logo" style="height:0.8em; vertical-align:middle;">, IEG, Video Generation, **Tencent Project UP (青云计划) Research Intern** <svg role="img" aria-label="Tencent Project UP Logo" viewBox="92 440 3169 2284" style="width:2.4em; height:1.7em; overflow:hidden; vertical-align:middle;"><image href="images/tencent_project_up.png" width="3353" height="3352" /></svg>, Shenzhen.
