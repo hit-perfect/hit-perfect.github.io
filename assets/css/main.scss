@@ -116,6 +116,17 @@
 
 }
 
+.paper-box:not(.blog-box) .paper-box-text > ul > li {
+    text-align: justify;
+    text-justify: inter-word;
+    text-align-last: left;
+    line-height: 1.55;
+
+    @media (max-width: 640px) {
+        text-align: left;
+    }
+}
+
 .paper-box .link-block {
     display: inline-block;
     white-space: nowrap;

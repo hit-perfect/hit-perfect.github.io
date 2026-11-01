@@ -260,7 +260,7 @@ Bohong Chen, Yajing Chen, **Yihua Du**, Junchao Huang, Guian Fang, Shengju Qian.
 
 # 📄 My Resume
 <!-- - [English Resume / 英文简历](../images/Yihua_Du_CV.pdf) | [Chinese Resume / 中文简历](../images/杜壹华_20251216.pdf)  -->
-- [English Resume](../images/CV/Yihua_Du_CV_260927.pdf) / [中文简历](../images/CV/杜壹华_20250306.pdf)(Lazy~~ Updated very infrequently. Feel free to check out my English version.).
+- [English Resume](../images/CV/Yihua_Du_CV_260927.pdf) / [中文简历](../images/CV/杜壹华_20250306.pdf)(Lazy~~ Updated very infrequently. Feel free to check out my English version.)
 
 # 🎖 Honors and Awards
 {% comment %}
