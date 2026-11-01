@@ -6,8 +6,14 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Technical Reports"
+    url: "/#-technical-reports"
+
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Blogs"
+    url: "/#%EF%B8%8F-blogs"
 
   - title: "Educations"
     url: "/#-educations"
