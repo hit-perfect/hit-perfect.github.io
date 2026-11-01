@@ -353,7 +353,7 @@ Zhifei Chen<sup>*</sup>, Luozhou Wang<sup>*</sup>, Guibao Shen, Dongyu Yan, Shua
 # 🍭 Habits
 
 - 🏸 Badminton is my absolute favorite! No matter what, I'll be there if you invite me to play!
-- 🎮 I'm also a passionate CS:GO/CS2 enthusiast. [**Click here to watch my perfect moments!(Ha ha ha ha. Please forgive me for not updating these previous highlights very often.)**](../cs2_highlights.html)
+- 🎮 I'm also a passionate CS:GO/CS2 enthusiast.
 
 ---
 
