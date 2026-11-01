@@ -40,6 +40,29 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.page__content .about-intro {
+    .about-institution { white-space: nowrap; }
+
+    p {
+        text-align: justify;
+        text-justify: inter-word;
+        text-align-last: left;
+        line-height: 1.55;
+        margin-bottom: 0.75em;
+    }
+
+    .about-logo {
+        height: 1.2em;
+        width: auto;
+        margin: 0 0.15em;
+        vertical-align: -0.2em;
+    }
+
+    @media (max-width: 640px) {
+        p { text-align: left; }
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -55,7 +78,13 @@
         display: flex;
         width: 100%;
         order: 2;
+        > div {
+            width: 100%;
+            max-width: 400px;
+        }
         img {
+            width: 100%;
+            height: auto;
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
@@ -85,6 +114,58 @@
     }
 
 
+}
+
+.paper-box .link-block {
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.paper-box .github-stars {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 0.2em;
+    line-height: 1;
+
+    img {
+        display: block;
+        height: 20px;
+        width: auto;
+        margin: 0;
+    }
+}
+
+.blog-box {
+    padding: 1.4em 0;
+
+    .link-block + .link-block {
+        margin-left: calc(0.65em - 5px);
+    }
+
+    .paper-box-text > p:first-child {
+        margin-bottom: 0.65em;
+    }
+
+    .paper-box-text > p:last-child {
+        margin-bottom: 0;
+    }
+
+}
+
+.blog-box .blog-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    color: #666;
+    font-size: 0.9em;
+
+    img {
+        width: 24px;
+        height: 24px;
+        margin: 0;
+        object-fit: contain;
+        flex-shrink: 0;
+    }
 }
 
 $scroll_offset : 2em;

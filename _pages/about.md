@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+math: false
 redirect_from: 
   - /about/
   - /about.html
@@ -25,11 +26,13 @@ I studied in the School of Computer Science and Technology of Harbin Institute o
 
 After that, I will be enrolled as a mphil student in hkust in the fall of 2025. under the guidance of <a href='https://www.yingcong.me/'>Chen Yingcong（陈颖聪）</a>, I will continue to study in the field of generation, and I hope to obtain deeper atabilities. -->
 
-I am currently an M.Phil. student in the AI Thrust at <img src="images/UST.png" alt="HKUST(gz) Logo" style="height:1.25em; vertical-align:middle;">HKUST(GZ). My supervisor is <a href='https://www.yingcong.me/'>Prof. Yingcong Chen</a>, a super nice mentor.
+<div class="about-intro" markdown="1">
 
-Before that, I received my Bachelor’s degree in Computer Science and Technology from the School of Computer Science and Technology, <img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:2em; vertical-align:middle;">Harbin Institute of Technology, under the supervision of <a href='https://homepage.hit.edu.cn/liushaohui'>Prof. Shaohui Liu</a>, who has been tremendously supportive.
+I am currently a second-year M.Phil. student in the AI Thrust at <span class="about-institution"><img src="images/UST.png" alt="HKUST(gz) Logo" class="about-logo">HKUST(GZ)</span>, supervised by <a href='https://www.yingcong.me/'>Prof. Yingcong Chen</a>, a kind and supportive mentor. Before that, I received my bachelor’s degree in Computer Science and Technology from <span class="about-institution"><img src="images/HIT-大蓝.png" alt="HIT-Logo" class="about-logo">Harbin Institute of Technology</span>, under the supervision of <a href='https://homepage.hit.edu.cn/liushaohui'>Prof. Shaohui Liu</a>, who has been tremendously supportive.
 
-At present, I am working closely with <a href='https://wileewang.github.io/'>Luozhou Wang</a>, <a href='https://dbbpaul.github.io/'>Guibao Shen</a> and <a href='https://junchao-cs.github.io/'>Junchao Huang</a>, both of whom are very kind and supportive. My current research focuses on controllable video generation and interactive world model, and I aim to make rapid progress and contributions in these areas.
+My research focuses on controllable video generation and interactive world models, particularly long-horizon consistency and efficient inference. I am interested in building models that maintain a coherent world over time while responding to user interactions with low latency. I am also a **Tencent Project UP (青云计划) Research Intern** at <a href="https://join.qq.com/about.html">Tencent</a>, working on controllable video generation within IEG in Shenzhen. I have been fortunate to collaborate with <a href='https://wileewang.github.io/'>Luozhou Wang</a>, <a href='https://dbbpaul.github.io/'>Guibao Shen</a>, and <a href='https://junchao-cs.github.io/'>Junchao Huang</a>, whose insights and support have been valuable to my research.
+
+</div>
 
 😍😍😍Please feel free to contact with me via *duyihua0130@gmail.com*😍😍😍
 
@@ -76,39 +79,18 @@ function toggleNews() {
 # 📑 Technical Reports
 
 <!-- SolarWM -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/SolarWM/solar_teaser.png' alt="SolarWM overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/SolarWM/solar_teaser-preview.webp' alt="SolarWM overview" width="1200" height="686" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://arxiv.org/abs/2609.02886)
 
 Junchao Huang, Guian Fang, Shengju Qian, Xianghao Kong, Zhuoran Zhao, Wei Huang, **Yihua Du**, Zixin Zhang, Justin Cui, Yuchao Gu, Yukang Chen, Xinting Hu, Tianyu He, Shaoshuai Shi, Zhuotao Tian, Xin Wang, Mike Zheng Shou, Li Jiang
 
-<span class="link-block">
-<span class="icon"><i class="fas fa-home"></i></span>
-<a href="https://junchao-cs.github.io/SolarWM-Web/" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Project Page</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon"><i class="fab fa-github"></i></span>
-<a href="https://github.com/Junchao-cs/SolarWM" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Code</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon">🤗</span>
-<a href="https://huggingface.co/datasets/junchaoh-cs/SolarWM-Data" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Dataset</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon">🤗</span>
-<a href="https://huggingface.co/collections/junchaoh-cs/solarwm" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Models</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon"><i class="ai ai-arxiv"></i></span>
-<a href="https://arxiv.org/abs/2609.02886" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>arXiv</span>
-</a>
-</span>
+<span class="link-block">[<span class="icon"><i class="fas fa-home"></i></span> <a href="https://junchao-cs.github.io/SolarWM-Web/" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Project Page</span></a>]</span>
+<span class="link-block">[<span class="icon"><i class="fab fa-github"></i></span> <a href="https://github.com/Junchao-cs/SolarWM" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Code</span></a>] <a class="github-stars" href="https://github.com/Junchao-cs/SolarWM/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Junchao-cs/SolarWM?style=social" alt="SolarWM GitHub stars" width="88" height="20" loading="lazy" decoding="async"></a></span>
+<span class="link-block">[<span class="icon">🤗</span> <a href="https://huggingface.co/datasets/junchaoh-cs/SolarWM-Data" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Dataset</span></a>]</span>
+<span class="link-block">[<span class="icon">🤗</span> <a href="https://huggingface.co/collections/junchaoh-cs/solarwm" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Models</span></a>]</span>
+<span class="link-block">[<span class="icon"><i class="ai ai-arxiv"></i></span> <a href="https://arxiv.org/abs/2609.02886" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>arXiv</span></a>]</span>
 
 - SolarWM provides an open foundation spanning 1.43 million clips from 10 source datasets and a unified three-stage training recipe across four 5B–33B video backbones, enabling real-time interactive rollouts from minutes to hours after training only on 5-second clips.
 
@@ -120,39 +102,19 @@ Junchao Huang, Guian Fang, Shengju Qian, Xianghao Kong, Zhuoran Zhao, Wei Huang,
 *denotes equal contribution, <sup>†</sup> denotes corresponding author
 
 <!-- StereoPilot -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/StereoPilot/parallel_vs_converged.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/StereoPilot/parallel_vs_converged-preview.webp' alt="sym" width="1200" height="543" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [StereoPilot: Learning Unified and Efficient Stereo Conversion via Generative Priors](https://arxiv.org/abs/2512.16915)
 
 Guibao Shen<sup>*</sup>, **Yihua Du**<sup>*</sup>, Wenhang Ge<sup>*</sup>, Jing He, Chirui Chang, Donghao Zhou, Zhen Yang, Luozhou Wang, Xin Tao, Ying-Cong Chen<sup>†</sup>
 
-<span class="link-block">
-<span class="icon"><i class="fas fa-home"></i></span>
-<a href="https://hit-perfect.github.io/StereoPilot/" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span class="link-block">[<span class="icon"><i class="fas fa-home"></i></span> <a href="https://hit-perfect.github.io/StereoPilot/" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Project Page</span></a>]</span>
+<span class="link-block">[<span class="icon"><i class="fab fa-github"></i></span> <a href="https://github.com/KlingTeam/StereoPilot" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Code</span></a>]</span>
+<span class="link-block">[<span class="icon">🤗</span> <a href="https://huggingface.co/papers/2512.16915" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Daily Paper</span></a>]</span>
+<span class="link-block">[<span class="icon">📰</span> <a href="https://mp.weixin.qq.com/s/uQ9ygMrFVujnkbZbObKHqA" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>机器之心</span></a>]</span>
+<span class="link-block">[<span class="icon"><i class="ai ai-arxiv"></i></span> <a href="https://arxiv.org/abs/2512.16915" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>arXiv</span></a>]</span>
 <!-- <span class="icon"><i class="fas fa-home"></i></span> -->
-<span>Project Page</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon"><i class="fab fa-github"></i></span>
-<a href="https://github.com/KlingTeam/StereoPilot" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Code</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon">🤗</span>
-<a href="https://huggingface.co/papers/2512.16915" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Daily Paper</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon">📰</span>
-<a href="https://mp.weixin.qq.com/s/uQ9ygMrFVujnkbZbObKHqA" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>机器之心</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon"><i class="ai ai-arxiv"></i></span>
-<a href="https://arxiv.org/abs/2512.16915" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>arXiv</span>
-</a>
 <!-- </span> -->
 
 - Converting a 5-second monocular video into a stereoscopic video takes only 11 seconds. Built both parallel and converged 3D dataset.
@@ -161,29 +123,17 @@ Guibao Shen<sup>*</sup>, **Yihua Du**<sup>*</sup>, Wenhang Ge<sup>*</sup>, Jing 
 
 
 <!-- VideoMemory -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/VideoMemory/Teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/VideoMemory/Teaser-preview.webp' alt="sym" width="1200" height="793" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VideoMemory: Toward Consistent Video Generation via Memory Integration](https://arxiv.org/abs/2601.03655)
 
 Jinsong Zhou<sup>*</sup>, **Yihua Du**<sup>*</sup>, Xinli Xu<sup>*</sup>, Luozhou Wang, Zijie Zhuang, Yehang Zhang, Shuaibo Li, Xiaojun Hu, Bolan Su, Ying-Cong Chen<sup>†</sup>
 
-<span class="link-block">
-<span class="icon"><i class="fas fa-home"></i></span>
-<a href="https://hit-perfect.github.io/VideoMemory/" class="external-link button is-normal is-rounded is-dark" target="_blank">
+<span class="link-block">[<span class="icon"><i class="fas fa-home"></i></span> <a href="https://hit-perfect.github.io/VideoMemory/" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Project Page</span></a>]</span>
+<span class="link-block">[<span class="icon"><i class="fab fa-github"></i></span> <a href="https://github.com/EnVision-Research/VideoMemory" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Code</span></a>]</span>
+<span class="link-block">[<span class="icon"><i class="ai ai-arxiv"></i></span> <a href="https://arxiv.org/abs/2601.03655" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>arXiv</span></a>]</span>
 <!-- <span class="icon"><i class="fas fa-home"></i></span> -->
-<span>Project Page</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon"><i class="fab fa-github"></i></span>
-<a href="https://github.com/EnVision-Research/VideoMemory" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Code</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon"><i class="ai ai-arxiv"></i></span>
-<a href="https://arxiv.org/abs/2601.03655" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>arXiv</span>
-</a>
 <!-- </span> | <span class="link-block">
 <span class="icon"><i class="fab fa-github"></i></span>
 <a href="https://github.com/KlingTeam/StereoPilot" class="external-link button is-normal is-rounded is-dark" target="_blank">
@@ -206,29 +156,16 @@ Jinsong Zhou<sup>*</sup>, **Yihua Du**<sup>*</sup>, Xinli Xu<sup>*</sup>, Luozho
 </div>
 
 <!-- RAR -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/RAR/stride_rope.png' alt="RAR Stride-RoPE across multiple rollout rates" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/RAR/stride_rope-preview.webp' alt="RAR Stride-RoPE across multiple rollout rates" width="1200" height="458" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RAR: Rate-Adaptive Rollout for Time-Consistent Interactive World Models](https://arxiv.org/abs/2610.16302)
 
 Yaoyang Liu<sup>*</sup>, Dongyu Yan<sup>*</sup>, **Yihua Du**, Shengju Qian, Zeke Xie, Xin Wang, Ying-Cong Chen, Long Chen<sup>†</sup>
 
-<span class="link-block">
-<span class="icon"><i class="fas fa-home"></i></span>
-<a href="https://hkust-longgroup.github.io/RAR/" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Project Page</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon">🤗</span>
-<a href="https://huggingface.co/papers/2610.16302" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Daily Paper</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon"><i class="ai ai-arxiv"></i></span>
-<a href="https://arxiv.org/abs/2610.16302" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>arXiv</span>
-</a>
-</span>
+<span class="link-block">[<span class="icon"><i class="fas fa-home"></i></span> <a href="https://hkust-longgroup.github.io/RAR/" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Project Page</span></a>]</span>
+<span class="link-block">[<span class="icon">🤗</span> <a href="https://huggingface.co/papers/2610.16302" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Daily Paper</span></a>]</span>
+<span class="link-block">[<span class="icon"><i class="ai ai-arxiv"></i></span> <a href="https://arxiv.org/abs/2610.16302" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>arXiv</span></a>]</span>
 
 - RAR uses Stride-RoPE and synchronized multi-stride video and control sampling to generate at controllable temporal rates, switch rates mid-rollout without resetting history, and extend physical horizons.
 
@@ -236,33 +173,17 @@ Yaoyang Liu<sup>*</sup>, Dongyu Yan<sup>*</sup>, **Yihua Du**, Shengju Qian, Zek
 </div>
 
 <!-- Survey -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/VideoWorldModel/VideoWorldModel_codepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/VideoWorldModel/VideoWorldModel_codepage-preview.webp' alt="sym" width="1200" height="646" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Mechanistic View on Video Generation as World Models: State and Dynamics](https://arxiv.org/abs/2601.17067)
 
 Luozhou Wang<sup>*</sup>, Zhifei Chen<sup>*</sup>, **Yihua Du**, Dongyu Yan, Wenhang Ge, Guibao Shen, Xinli Xu, Leyi Wu, Man Chen, Tianshuo Xu, Peiran Ren, Xin Tao, Pengfei Wan, Ying-Cong Chen<sup>†</sup>
 
-<span class="link-block">
-<span class="icon"><i class="fab fa-github"></i></span>
-<a href="https://github.com/hit-perfect/Awesome-Video-World-Models" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Code</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon">🤗</span>
-<a href="https://huggingface.co/papers/2601.17067" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Daily Paper</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon"><i class="ai ai-arxiv"></i></span>
-<a href="https://arxiv.org/abs/2601.17067" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>arXiv</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon">📰</span>
-<a href="https://mp.weixin.qq.com/s/_FjKtSbdoEUvPQ-FGvlmgQ" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>机器之心</span>
-</a>
+<span class="link-block">[<span class="icon"><i class="fab fa-github"></i></span> <a href="https://github.com/hit-perfect/Awesome-Video-World-Models" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Code</span></a>]</span>
+<span class="link-block">[<span class="icon">🤗</span> <a href="https://huggingface.co/papers/2601.17067" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Daily Paper</span></a>]</span>
+<span class="link-block">[<span class="icon"><i class="ai ai-arxiv"></i></span> <a href="https://arxiv.org/abs/2601.17067" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>arXiv</span></a>]</span>
+<span class="link-block">[<span class="icon">📰</span> <a href="https://mp.weixin.qq.com/s/_FjKtSbdoEUvPQ-FGvlmgQ" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>机器之心</span></a>]</span>
 
 - Bridge this divide: (1) Taxonomy: Unifying Implicit Context vs. Explicit Latent Compression (2) Evolution: Shifting benchmarks from "Visual Fidelity" to "Physical Persistence" and Causality.
 </div>
@@ -270,34 +191,17 @@ Luozhou Wang<sup>*</sup>, Zhifei Chen<sup>*</sup>, **Yihua Du**, Dongyu Yan, Wen
 
 
 <!-- ReWorld -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/ReWorld/reworld_framework.png' alt="ReWorld framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/ReWorld/reworld_framework-preview.webp' alt="ReWorld framework" width="1200" height="595" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReWorld: An Interactive World Model with Long-Horizon Memory](https://arxiv.org/abs/2608.23565)
 
 Zhifei Chen<sup>*</sup>, Luozhou Wang<sup>*</sup>, Guibao Shen, Dongyu Yan, Shuai Yang, Tianshuo Xu, **Yihua Du**, Wei Wang, Tianyi Gui, Lianghua Huang, Ying-Cong Chen<sup>†</sup>
 
-<span class="link-block">
-<span class="icon"><i class="fas fa-home"></i></span>
-<a href="https://zhifeichen097.github.io/ReWorld/" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Project Page</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon"><i class="fab fa-github"></i></span>
-<a href="https://github.com/zhifeichen097/ReWorld" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Code</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon">🤗</span>
-<a href="https://huggingface.co/papers/2608.23565" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>Daily Paper</span>
-</a>
-</span> | <span class="link-block">
-<span class="icon"><i class="ai ai-arxiv"></i></span>
-<a href="https://arxiv.org/abs/2608.23565" class="external-link button is-normal is-rounded is-dark" target="_blank">
-<span>arXiv</span>
-</a>
-</span>
+<span class="link-block">[<span class="icon"><i class="fas fa-home"></i></span> <a href="https://zhifeichen097.github.io/ReWorld/" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Project Page</span></a>]</span>
+<span class="link-block">[<span class="icon"><i class="fab fa-github"></i></span> <a href="https://github.com/zhifeichen097/ReWorld" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Code</span></a>]</span>
+<span class="link-block">[<span class="icon">🤗</span> <a href="https://huggingface.co/papers/2608.23565" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Daily Paper</span></a>]</span>
+<span class="link-block">[<span class="icon"><i class="ai ai-arxiv"></i></span> <a href="https://arxiv.org/abs/2608.23565" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>arXiv</span></a>]</span>
 
 - ReWorld decouples short-horizon action control from long-horizon memory and combines a fixed-budget KV cache with a pose-indexed landmark bank, enabling real-time 704×1280 interactive video streaming with consistent recall of revisited scenes.
 
@@ -307,10 +211,36 @@ Zhifei Chen<sup>*</sup>, Luozhou Wang<sup>*</sup>, Guibao Shen, Dongyu Yan, Shua
 <!-- - [There is no Publications now, I hope this day will coming soon~~~](https://hit-perfect.github.io) **CVPR 2026** -->
 
 # ✍️ Blogs
-- *2026.10* [SolarWM H3 Realtime Interaction](https://solarx-team.github.io/SolarWM-H3-Realtime/)<br>
-  **Yihua Du**, Junchao Huang, Bohong Chen, Yaoyang Liu, Zixin Zhang, Xianghao Kong, Dongyu Yan, Zhuoran Zhao, Guian Fang, Yajing Chen, Shengju Qian.
-- *2026.10* [H3 Streaming VAE Decoder](https://solarx-team.github.io/H3-Streaming-VAE-Decoder/)<br>
-  Bohong Chen, Yajing Chen, **Yihua Du**, Junchao Huang, Guian Fang, Shengju Qian.
+
+<div class='paper-box blog-box'><div class='paper-box-image'><div><div class="badge">Blog</div><a href="https://solarx-team.github.io/SolarWM-H3-Realtime/"><img src="images/Blogs/solarwm-h3-speedup.gif" alt="Animated bar chart showing SolarWM H3 DiT acceleration from 7.09 to 31.49 FPS" width="800" height="392" loading="lazy" decoding="async"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SolarWM H3 Realtime Interaction](https://solarx-team.github.io/SolarWM-H3-Realtime/)
+
+**Yihua Du**, Junchao Huang, Bohong Chen, Yaoyang Liu, Zixin Zhang, Xianghao Kong, Dongyu Yan, Zhuoran Zhao, Guian Fang, Yajing Chen, Shengju Qian.
+
+<p class="blog-meta"><img src="images/Blogs/solarx-mark-square.svg" alt="SolarX-Team logo" width="24" height="24"> <span>SolarX-Team</span><span aria-hidden="true">·</span><time datetime="2026-10">2026.10</time></p>
+
+<span class="link-block">[<span class="icon"><i class="fab fa-github"></i></span> <a href="https://github.com/Junchao-cs/SolarWM/tree/main/deploy/solar_wm" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Code</span></a>]</span>
+<span class="link-block">[<span class="icon"><i class="fas fa-home"></i></span> <a href="https://solarx-team.github.io/SolarWM-H3-Realtime/" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Blog</span></a>]</span>
+
+</div>
+</div>
+
+<div class='paper-box blog-box'><div class='paper-box-image'><div><div class="badge">Blog</div><a href="https://solarx-team.github.io/H3-Streaming-VAE-Decoder/"><img src="images/Blogs/h3-streaming-vae.gif" alt="Animated latent-by-latent streaming decoding compared with the official H3 decoder" width="800" height="301" loading="lazy" decoding="async"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[H3 Streaming VAE Decoder](https://solarx-team.github.io/H3-Streaming-VAE-Decoder/)
+
+Bohong Chen, Yajing Chen, **Yihua Du**, Junchao Huang, Guian Fang, Shengju Qian.
+
+<p class="blog-meta"><img src="images/Blogs/solarx-mark-square.svg" alt="SolarX-Team logo" width="24" height="24"> <span>SolarX-Team</span><span aria-hidden="true">·</span><time datetime="2026-10">2026.10</time></p>
+
+<span class="link-block">[<span class="icon"><i class="fab fa-github"></i></span> <a href="https://github.com/SolarX-Team/H3-Streaming-VAE-Decoder" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Code</span></a>]</span>
+<span class="link-block">[<span class="icon"><i class="fas fa-home"></i></span> <a href="https://solarx-team.github.io/H3-Streaming-VAE-Decoder/" class="external-link button is-normal is-rounded is-dark" target="_blank"><span>Blog</span></a>]</span>
+
+</div>
+</div>
 
 # 📖 Educations
 - *2021.08 - 2025.09*, <img src="images/HIT-大蓝.png" alt="HIT-Logo" style="height:2.15em; vertical-align:middle;"> Bachelor, Harbin Institute of Technology, Harbin. 
