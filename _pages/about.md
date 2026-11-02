@@ -43,10 +43,10 @@ My research focuses on controllable video generation and interactive world model
 - *2026.10*: &nbsp;✍️ SolarX-team published two technical blogs: [SolarWM H3 Realtime Interaction](https://solarx-team.github.io/SolarWM-H3-Realtime/) and [H3 Streaming VAE Decoder](https://solarx-team.github.io/H3-Streaming-VAE-Decoder/).
 - *2026.09*: &nbsp;❤️ We released SolarWM and ReWorld, great works.
 <!-- - *2026.08*: &nbsp;❤️ We released the [Project Page](https://zhifeichen097.github.io/ReWorld/), [Code](https://github.com/zhifeichen097/ReWorld), and [Paper](https://arxiv.org/abs/2608.23565) of ReWorld. -->
-- *2026.02*: &nbsp;🎉 Our Video-World-Models survey was reported by [JiQiZhiXin](https://mp.weixin.qq.com/s/_FjKtSbdoEUvPQ-FGvlmgQ).
+- *2026.02*: &nbsp;🎉 Our Video-World-Models survey was reported by [JiQiZhiXin（机器之心）](https://mp.weixin.qq.com/s/_FjKtSbdoEUvPQ-FGvlmgQ).
 - *2026.01*: &nbsp;❤️ Joined [LIGHTSPEED STUDIOS](https://guangzi.qq.com/), <img src="images/tencent_logo.png" alt="Tencent-Logo" style="height:0.8em; vertical-align:middle;"> as a Researcher.
 <!-- - *2026.01*: &nbsp;🔥 We Release the [Project Page](https://github.com/hit-perfect/Awesome-Video-World-Models), [Paper](https://arxiv.org/abs/2601.17067) of our Video-World-Models survey. -->
-- *2025.12*: &nbsp;🎉 StereoPilot was reported by [JiQiZhiXin](https://mp.weixin.qq.com/s/uQ9ygMrFVujnkbZbObKHqA).
+- *2025.12*: &nbsp;🎉 StereoPilot was reported by [JiQiZhiXin（机器之心）](https://mp.weixin.qq.com/s/uQ9ygMrFVujnkbZbObKHqA).
 <!-- - *2025.12*: &nbsp;❤️ We Release [Project Page](https://hit-perfect.github.io/StereoPilot/), [Code](https://github.com/KlingTeam/StereoPilot), [Paper](https://arxiv.org/abs/2512.16915) of StereoPilot. -->
 <!-- - *2025.12*: &nbsp;❤️ We Release [Project Page](https://hit-perfect.github.io/VideoMemory/), [Paper](https://arxiv.org/abs/2601.03655) of VideoMemory. -->
 - *2025.12*: &nbsp;🏎️ See you at the 2026 Formula 1 Chinese Grand Prix in Shanghai!!!
