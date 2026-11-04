@@ -211,6 +211,7 @@ Zhifei Chen<sup>*</sup>, Luozhou Wang<sup>*</sup>, Guibao Shen, Dongyu Yan, Shua
 <!-- - [There is no Publications now, I hope this day will coming soon~~~](https://hit-perfect.github.io) **CVPR 2026** -->
 
 # ✍️ Blogs
+{: id="-blogs"}
 
 <div class='paper-box blog-box'><div class='paper-box-image'><div><div class="badge">Blog</div><a href="https://solarx-team.github.io/SolarWM-H3-Realtime/"><img src="images/Blogs/solarwm-h3-speedup.gif" alt="Animated bar chart showing SolarWM H3 DiT acceleration from 7.09 to 31.49 FPS" width="800" height="392" loading="lazy" decoding="async"></a></div></div>
 <div class='paper-box-text' markdown="1">

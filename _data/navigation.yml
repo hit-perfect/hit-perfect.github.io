@@ -13,7 +13,7 @@ main:
     url: "/#-publications"
 
   - title: "Blogs"
-    url: "/#%EF%B8%8F-blogs"
+    url: "/#-blogs"
 
   - title: "Educations"
     url: "/#-educations"
